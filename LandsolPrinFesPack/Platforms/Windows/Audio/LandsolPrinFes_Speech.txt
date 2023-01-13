@@ -1,0 +1,38 @@
+Event	ID	Name			Wwise Object Path	Notes
+	38218252	LANS_AM_MISC_PEP_TALK_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_MISC_PEP_TALK_A	
+	474484197	LANS_HM_DECLARE_WAR_FROM_AI_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_DECLARE_WAR_FROM_AI_A	
+	508969634	LANS_HK_SUMMER_KUDOS_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HK_SUMMER_KUDOS_A	
+	1463136907	LANS_HK_SUMMER_MISC_PEP_TALK_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HK_SUMMER_MISC_PEP_TALK_A	
+	1477303508	LANS_HM_EXPLORER_WARNING_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_EXPLORER_WARNING_A	
+	1480721852	LANS_AM_DEFEAT_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_DEFEAT_A	
+	1805300570	LANS_HM_EXPLORER_KUDOS_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_EXPLORER_KUDOS_A	
+	1887462713	LANS_HM_DEFEAT_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_DEFEAT_A	
+	2839631308	LANS_HK_SUMMER_WARNING_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HK_SUMMER_WARNING_A	
+	2912685511	LANS_AM_WARNING_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_WARNING_A	
+	3312138681	LANS_AM_FIRST_MEET_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_FIRST_MEET_A	
+	3348695373	LANS_AM_KUDOS_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_KUDOS_A	
+	3367230389	LANS_HM_DECLARE_WAR_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_DECLARE_WAR_A	
+	3432423270	LANS_AM_DECLARE_WAR_FROM_AI_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_DECLARE_WAR_FROM_AI_A	
+	3504843619	LANS_HM_EXPLORER_MISC_PEP_TALK_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_EXPLORER_MISC_PEP_TALK_A	
+	3954478270	LANS_AM_DECLARE_WAR_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_AM_DECLARE_WAR_A	
+	4009502196	LANS_HM_FIRST_MEET_A			\Default Work Unit\Speech\PrinFesSpeech\LANS_HM_FIRST_MEET_A	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	85933306	LANS_AM_WARNING_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_WARNING_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_WARNING_A		243568
+	102046623	LANS_HM_DECLARE_WAR_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_DECLARE_WAR_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_DECLARE_WAR_A		173728
+	116029982	LANS_AM_DECLARE_WAR_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_DECLARE_WAR_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_DECLARE_WAR_A		86536
+	246042262	LANS_HM_FIRST_MEET_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_FIRST_MEET_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_FIRST_MEET_A		380764
+	402344590	LANS_AM_KUDOS_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_KUDOS_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_KUDOS_A		216748
+	423259599	LANS_HK_SUMMER_MISC_PEP_TALK_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HK_SUMMER_MISC_PEP_TALK_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HK_SUMMER_MISC_PEP_TALK_A		174952
+	690680702	LANS_AM_MISC_PEP_TALK_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_MISC_PEP_TALK_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_MISC_PEP_TALK_A		130600
+	708971250	LANS_HM_DECLARE_WAR_FROM_AI_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_DECLARE_WAR_FROM_AI_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_DECLARE_WAR_FROM_AI_A		275140
+	827794347	LANS_HK_SUMMER_KUDOS_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HK_SUMMER_KUDOS_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HK_SUMMER_KUDOS_A		111808
+	845042579	LANS_HK_SUMMER_WARNING_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HK_SUMMER_WARNING_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HK_SUMMER_WARNING_A		185500
+	876336733	LANS_HM_EXPLORER_MISC_PEP_TALK_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_EXPLORER_MISC_PEP_TALK_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_EXPLORER_MISC_PEP_TALK_A		219340
+	887136514	LANS_AM_FIRST_MEET_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_FIRST_MEET_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_FIRST_MEET_A		349048
+	935982375	LANS_AM_DECLARE_WAR_FROM_AI_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_DECLARE_WAR_FROM_AI_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_DECLARE_WAR_FROM_AI_A		141580
+	950844696	LANS_HM_EXPLORER_KUDOS_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_EXPLORER_KUDOS_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_EXPLORER_KUDOS_A		254080
+	985144153	LANS_HM_DEFEAT_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_DEFEAT_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_DEFEAT_A		104896
+	1063085438	LANS_AM_DEFEAT_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_AM_DEFEAT_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_AM_DEFEAT_A		102916
+	1066045439	LANS_HM_EXPLORER_WARNING_A	D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\SFX\LANS_HM_EXPLORER_WARNING_A_838899FF.wem		\Actor-Mixer Hierarchy\LeaderSpeech_Yuni\id88602518\id854467727\id424381547\PrinFesPackSpeech\LANS_HM_EXPLORER_WARNING_A		372772
+

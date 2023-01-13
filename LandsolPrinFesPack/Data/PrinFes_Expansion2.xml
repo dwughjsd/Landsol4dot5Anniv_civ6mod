@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<MomentIllustrations>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_LANDSOL_KOKKORO_AMES" Texture="Moment_UniqueUnit_Landsol_Kokkoro"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_BUILDING" MomentDataType="MOMENT_DATA_BUILDING" GameDataType="BUILDING_MAHOMAHO_CAMP" Texture="Moment_Infrastructure_MahoExplorer"/>
+	</MomentIllustrations>
+	<Traits>
+		<Update>
+			<Where Description="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION"/>
+			<Set Description="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_XP2"/>
+		</Update>
+	</Traits>
+	
+	<AiFavoredItems>
+		<Row ListType="AmesTechs" Item="TECH_ADVANCED_AI" Favored="true"/>
+		<Row ListType="AmesTechs" Item="TECH_PREDICTIVE_SYSTEMS" Favored="true"/>
+		<Row ListType="AmesCivics" Item="CIVIC_SYNTHETIC_TECHNOCRACY" Favored="true"/>
+	</AiFavoredItems>
+	
+	<TraitModifiers>	
+		<Row TraitType="TRAIT_LEADER_FIORE_FELICITA" ModifierId="THEMED_YIELD_MODIFIER"/>
+		<Row TraitType="TRAIT_LEADER_FIORE_FELICITA" ModifierId="THEMED_TOURISM_MODIFIER"/>
+		<Row TraitType="TRAIT_LEADER_FIORE_FELICITA" ModifierId="TRAIT_FIORE_FELICITA_GUILDHOUSE_AUTOTHEME"/>
+	</TraitModifiers>
+	<Units_XP2>
+		<Row UnitType="UNIT_LANDSOL_KOKKORO_AMES" CanFormMilitaryFormation="false"/>
+		<Row UnitType="UNIT_GUILD_MEMBER" CanEarnExperience="false" CanFormMilitaryFormation="false"/>
+	</Units_XP2>
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_ENABLE_WALL_ATTACK_PROMOTION_CLASS</UnitAbilityType>
+			<ModifierId>ENABLE_WALL_ATTACK_LANDSOL_KOKKORO_AMES</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BYPASS_WALLS_PROMOTION_CLASS</UnitAbilityType>
+			<ModifierId>BYPASS_WALLS_LANDSOL_KOKKORO_AMES</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+	
+	<TraitModifiers>
+		<Row TraitType="MINOR_CIV_AKKAD_TRAIT" ModifierId="MINOR_CIV_AKKAD_UNIQUE_INFLUENCE_BONUS_LANDSOL_KOKKORO_AMES"/>
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MINOR_CIV_AKKAD_UNIQUE_INFLUENCE_BONUS_LANDSOL_KOKKORO_AMES</ModifierId>
+			<ModifierType>MODIFIER_ALL_PLAYERS_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_IS_SUZERAIN</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_AKKAD_ENABLE_WALL_ATTACK_WHOLE_GAME_LANDSOL_KOKKORO_AMES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_ENABLE_WALL_ATTACK_WHOLE_GAME_PROMOTION_CLASS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>ENABLE_WALL_ATTACK_LANDSOL_KOKKORO_AMES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_ENABLE_WALL_ATTACK_PROMOTION_CLASS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>BYPASS_WALLS_LANDSOL_KOKKORO_AMES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_BYPASS_WALLS_PROMOTION_CLASS</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MINOR_CIV_AKKAD_UNIQUE_INFLUENCE_BONUS_LANDSOL_KOKKORO_AMES</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MINOR_CIV_AKKAD_ENABLE_WALL_ATTACK_WHOLE_GAME_LANDSOL_KOKKORO_AMES</Value>
+		</Row>
+		<Row>
+			<ModifierId>MINOR_CIV_AKKAD_ENABLE_WALL_ATTACK_WHOLE_GAME_LANDSOL_KOKKORO_AMES</ModifierId>
+			<Name>PromotionClass</Name>
+			<Value>PROMOTION_CLASS_LANDSOL_KOKKORO_AMES</Value>
+		</Row>
+		<Row>
+			<ModifierId>ENABLE_WALL_ATTACK_LANDSOL_KOKKORO_AMES</ModifierId>
+			<Name>PromotionClass</Name>
+			<Value>PROMOTION_CLASS_LANDSOL_KOKKORO_AMES</Value>
+		</Row>
+		<Row>
+			<ModifierId>BYPASS_WALLS_LANDSOL_KOKKORO_AMES</ModifierId>
+			<Name>PromotionClass</Name>
+			<Value>PROMOTION_CLASS_LANDSOL_KOKKORO_AMES</Value>
+		</Row>
+	</ModifierArguments>
+
+	<TypeTags>
+		<Row Type="ABILITY_AQUA_FLOCK_DEBUFF" Tag="CLASS_GIANT_DEATH_ROBOT"/>
+	</TypeTags>
+
+	<Agendas>
+		<Update>
+			<Where AgendaType="AGENDA_KYOUKA_SUMMER_CAMPING"/>
+			<Set Description="LOC_AGENDA_KYOUKA_SUMMER_CAMPING_DESCRIPTION_XP2"/>
+		</Update>
+	</Agendas>
+	
+	<TraitModifiers>
+		<Delete TraitType="TRAIT_AGENDA_KYOUKA_SUMMER_CAMPING" ModifierId="AGENDA_KYOUKA_SUMMER_CAMPING_HOME_CONTINENT"/>
+		<Delete TraitType="TRAIT_AGENDA_KYOUKA_SUMMER_CAMPING" ModifierId="AGENDA_KYOUKA_SUMMER_CAMPING_NEW_CONTINENT"/>
+		<Row TraitType="TRAIT_AGENDA_KYOUKA_SUMMER_CAMPING" ModifierId="AGENDA_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES"/>
+		<Row TraitType="TRAIT_AGENDA_KYOUKA_SUMMER_CAMPING" ModifierId="AGENDA_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES"/>
+	</TraitModifiers>
+	
+	<ModifierStrings>
+		<Row ModifierId="AGENDA_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+		<Row ModifierId="AGENDA_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES" Context="Sample" Text="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL"/>
+	</ModifierStrings>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_HAS_LOW_COASTAL_CITIES</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>PLAYER_HAS_HIGH_COASTAL_CITIES</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>8</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_KUDO_EXIT_LEADER_HIKAWA_KYOUKA_SUMMER_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES</ModifierId>
+			<Name>InitialValue</Name>
+			<Value>-8</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES</ModifierId>
+			<Name>StatementKey</Name>
+			<Value>LOC_DIPLO_WARNING_EXIT_LEADER_HIKAWA_KYOUKA_SUMMER_ANY</Value>
+		</Row>
+		<Row>
+			<ModifierId>AGENDA_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES</ModifierId>
+			<Name>SimpleModifierDescription</Name>
+			<Value>LOC_DIPLO_MODIFIER_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES</Value>
+		</Row>
+	</ModifierArguments>
+</GameData>

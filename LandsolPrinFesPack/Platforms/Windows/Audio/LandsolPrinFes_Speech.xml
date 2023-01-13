@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\</ProjectRoot>
+		<SourceFilesRoot>D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Documents\GitHub\Uzuki_civ6_mods_wwise\Yuni\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="2808668264" Language="SFX">
+			<ShortName>LandsolPrinFes_Speech</ShortName>
+			<Path>LandsolPrinFes_Speech.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3954478270" Name="LANS_AM_DECLARE_WAR_A"/>
+				<Event Id="3432423270" Name="LANS_AM_DECLARE_WAR_FROM_AI_A"/>
+				<Event Id="1480721852" Name="LANS_AM_DEFEAT_A"/>
+				<Event Id="3312138681" Name="LANS_AM_FIRST_MEET_A"/>
+				<Event Id="3348695373" Name="LANS_AM_KUDOS_A"/>
+				<Event Id="38218252" Name="LANS_AM_MISC_PEP_TALK_A"/>
+				<Event Id="2912685511" Name="LANS_AM_WARNING_A"/>
+				<Event Id="508969634" Name="LANS_HK_SUMMER_KUDOS_A"/>
+				<Event Id="1463136907" Name="LANS_HK_SUMMER_MISC_PEP_TALK_A"/>
+				<Event Id="2839631308" Name="LANS_HK_SUMMER_WARNING_A"/>
+				<Event Id="3367230389" Name="LANS_HM_DECLARE_WAR_A"/>
+				<Event Id="474484197" Name="LANS_HM_DECLARE_WAR_FROM_AI_A"/>
+				<Event Id="1887462713" Name="LANS_HM_DEFEAT_A"/>
+				<Event Id="1805300570" Name="LANS_HM_EXPLORER_KUDOS_A"/>
+				<Event Id="3504843619" Name="LANS_HM_EXPLORER_MISC_PEP_TALK_A"/>
+				<Event Id="1477303508" Name="LANS_HM_EXPLORER_WARNING_A"/>
+				<Event Id="4009502196" Name="LANS_HM_FIRST_MEET_A"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="85933306" Language="SFX">
+					<ShortName>LANS_AM_WARNING_A.wav</ShortName>
+					<Path>SFX\LANS_AM_WARNING_A_838899FF.wem</Path>
+				</File>
+				<File Id="102046623" Language="SFX">
+					<ShortName>LANS_HM_DECLARE_WAR_A.wav</ShortName>
+					<Path>SFX\LANS_HM_DECLARE_WAR_A_838899FF.wem</Path>
+				</File>
+				<File Id="116029982" Language="SFX">
+					<ShortName>LANS_AM_DECLARE_WAR_A.wav</ShortName>
+					<Path>SFX\LANS_AM_DECLARE_WAR_A_838899FF.wem</Path>
+				</File>
+				<File Id="246042262" Language="SFX">
+					<ShortName>LANS_HM_FIRST_MEET_A.wav</ShortName>
+					<Path>SFX\LANS_HM_FIRST_MEET_A_838899FF.wem</Path>
+				</File>
+				<File Id="402344590" Language="SFX">
+					<ShortName>LANS_AM_KUDOS_A.wav</ShortName>
+					<Path>SFX\LANS_AM_KUDOS_A_838899FF.wem</Path>
+				</File>
+				<File Id="423259599" Language="SFX">
+					<ShortName>LANS_HK_SUMMER_MISC_PEP_TALK_A.wav</ShortName>
+					<Path>SFX\LANS_HK_SUMMER_MISC_PEP_TALK_A_838899FF.wem</Path>
+				</File>
+				<File Id="690680702" Language="SFX">
+					<ShortName>LANS_AM_MISC_PEP_TALK_A.wav</ShortName>
+					<Path>SFX\LANS_AM_MISC_PEP_TALK_A_838899FF.wem</Path>
+				</File>
+				<File Id="708971250" Language="SFX">
+					<ShortName>LANS_HM_DECLARE_WAR_FROM_AI_A.wav</ShortName>
+					<Path>SFX\LANS_HM_DECLARE_WAR_FROM_AI_A_838899FF.wem</Path>
+				</File>
+				<File Id="827794347" Language="SFX">
+					<ShortName>LANS_HK_SUMMER_KUDOS_A.wav</ShortName>
+					<Path>SFX\LANS_HK_SUMMER_KUDOS_A_838899FF.wem</Path>
+				</File>
+				<File Id="845042579" Language="SFX">
+					<ShortName>LANS_HK_SUMMER_WARNING_A.wav</ShortName>
+					<Path>SFX\LANS_HK_SUMMER_WARNING_A_838899FF.wem</Path>
+				</File>
+				<File Id="876336733" Language="SFX">
+					<ShortName>LANS_HM_EXPLORER_MISC_PEP_TALK_A.wav</ShortName>
+					<Path>SFX\LANS_HM_EXPLORER_MISC_PEP_TALK_A_838899FF.wem</Path>
+				</File>
+				<File Id="887136514" Language="SFX">
+					<ShortName>LANS_AM_FIRST_MEET_A.wav</ShortName>
+					<Path>SFX\LANS_AM_FIRST_MEET_A_838899FF.wem</Path>
+				</File>
+				<File Id="935982375" Language="SFX">
+					<ShortName>LANS_AM_DECLARE_WAR_FROM_AI_A.wav</ShortName>
+					<Path>SFX\LANS_AM_DECLARE_WAR_FROM_AI_A_838899FF.wem</Path>
+				</File>
+				<File Id="950844696" Language="SFX">
+					<ShortName>LANS_HM_EXPLORER_KUDOS_A.wav</ShortName>
+					<Path>SFX\LANS_HM_EXPLORER_KUDOS_A_838899FF.wem</Path>
+				</File>
+				<File Id="985144153" Language="SFX">
+					<ShortName>LANS_HM_DEFEAT_A.wav</ShortName>
+					<Path>SFX\LANS_HM_DEFEAT_A_838899FF.wem</Path>
+				</File>
+				<File Id="1063085438" Language="SFX">
+					<ShortName>LANS_AM_DEFEAT_A.wav</ShortName>
+					<Path>SFX\LANS_AM_DEFEAT_A_838899FF.wem</Path>
+				</File>
+				<File Id="1066045439" Language="SFX">
+					<ShortName>LANS_HM_EXPLORER_WARNING_A.wav</ShortName>
+					<Path>SFX\LANS_HM_EXPLORER_WARNING_A_838899FF.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

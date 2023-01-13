@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4661ec16-b9fa-4f29-a9dc-0bf4394fbcc1" version="1">
+  <Properties>
+    <Name>LOC_LANDSOL_PRINFES_PACK_TITLE</Name>
+    <Description>LOC_LANDSOL_PRINFES_PACK_DESCRIPTION</Description>
+    <Created>1673359378</Created>
+    <Teaser>LOC_LANDSOL_PRINFES_PACK_TEASER</Teaser>
+    <Authors>Shimamura et al.</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <LocalizedText>
+    <Text id="LOC_LANDSOL_PRINFES_PACK_TITLE">
+      <en_US>4.5 Years Anniversary of Landosol Leader Pack</en_US>
+      <zh_Hans_CN>兰德索尔4.5周年领袖包</zh_Hans_CN>
+    </Text>
+      <Text id="LOC_LANDSOL_PRINFES_PACK_TEASER">
+      <en_US>New Alternate Leaders - Ameth, Maho (Explorer) and Kyoka (Summertime) of Landosol</en_US>
+      <zh_Hans_CN>全新可选领袖——兰德索尔的爱梅斯、真步（探险家）和镜华（夏日戏水）</zh_Hans_CN>
+    </Text>
+      <Text id="LOC_LANDSOL_PRINFES_PACK_DESCRIPTION">
+      <en_US>Contains 3 new alternative Leaders for existing Civilization. Includes Ameth, Maho (Explorer) and Kyoka (Summertime).</en_US>
+      <zh_Hans_CN>包含现有文明的3位新可选领袖。包括爱梅斯、真步（探险家）和镜华（夏日戏水）。</zh_Hans_CN>
+    </Text>
+  </LocalizedText>
+  <Dependencies>
+    <Mod id="f370d486-00c2-4228-bd7e-2d8a71a32af4" title="Yuni" />
+  </Dependencies>
+  <References>
+    <Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="Expansion: Rise and Fall" />
+    <Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="Expansion: Gathering Storm" />
+  </References>
+  <ActionCriteria>
+    <Criteria id="LandsolPrinFes">
+      <LeaderPlayable>Players:Expansion1_Players::LEADER_AMES,Players:Expansion2_Players::LEADER_AMES,Players:Expansion1_Players::LEADER_HIMEMIYA_MAHO_EXPLORER,Players:Expansion2_Players::LEADER_HIMEMIYA_MAHO_EXPLORER,Players:Expansion1_Players::LEADER_HIKAWA_KYOUKA_SUMMER,Players:Expansion2_Players::LEADER_HIKAWA_KYOUKA_SUMMER</LeaderPlayable>
+      <RuleSetInUse>RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+    </Criteria>
+    <Criteria id="LandsolPrinFes_Expansion1">
+      <LeaderPlayable>Players:Expansion1_Players::LEADER_AMES,Players:Expansion1_Players::LEADER_HIMEMIYA_MAHO_EXPLORER,Players:Expansion1_Players::LEADER_HIKAWA_KYOUKA_SUMMER</LeaderPlayable>
+      <RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+    </Criteria>
+    <Criteria id="LandsolPrinFes_Expansion2">
+      <LeaderPlayable>Players:Expansion2_Players::LEADER_AMES,Players:Expansion2_Players::LEADER_HIMEMIYA_MAHO_EXPLORER,Players:Expansion2_Players::LEADER_HIKAWA_KYOUKA_SUMMER</LeaderPlayable>
+      <RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+    </Criteria>
+    <Criteria id="LandsolPrinFes_Expansion1_Expansion2">
+      <LeaderPlayable>Players:Expansion2_Players::LEADER_AMES,Players:Expansion2_Players::LEADER_HIMEMIYA_MAHO_EXPLORER,Players:Expansion2_Players::LEADER_HIKAWA_KYOUKA_SUMMER</LeaderPlayable>
+      <ModInUse>1B28771A-C749-434B-9053-D1380C553DE9</ModInUse>
+      <RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="PrinFesSettings">
+      <File>Data/PrinFes_Config.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="PrinFesSettingsText">
+      <File>Text/PrinFes_ConfigText_Translations.xml</File>
+      <File>Text/PrinFes_ConfigText_AFallback.xml</File>
+    </UpdateText>
+    <UpdateColors id="PrinFesSettingsColors">
+      <File>Data/PrinFes_Colors.xml</File>
+    </UpdateColors>
+    <UpdateIcons id="PrinFesSettingsIcons">
+      <File>Data/PrinFes_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="PrinFesSettingsArt">
+      <File>LandsolPrinFesPack.dep</File>
+    </UpdateArt>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="PrinFesGameplay">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Data/PrinFes_Leaders.xml</File>
+      <File>Data/PrinFes_UnitAbilities.xml</File>
+      <File>Data/PrinFes_Leaders.xml</File>
+      <File>Data/PrinFes_Projects.xml</File>
+      <File>Data/PrinFes_GreatPeople.xml</File>
+      <File>Data/PrinFes_Units.xml</File>
+      <File>Data/PrinFes_Buildings.xml</File>
+      <File>Data/PrinFes_KyoukaSummer.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="PrinFesText">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Text/PrinFes_Text_AFallback.xml</File>
+      <File>Text/PrinFes_Text_Translations.xml</File>
+      <File>Text/PrinFes_ConfigText_AFallback.xml</File>
+      <File>Text/PrinFes_ConfigText_Translations.xml</File>
+    </UpdateText>
+    <UpdateColors id="PrinFesColors">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Data/PrinFes_Colors.xml</File>
+    </UpdateColors>
+    <AddGameplayScripts id="PrinFesScripts">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Scripts/PrinFes_Ames_Script.lua</File>
+      <File>Scripts/PrinFes_MahoExplorer_Script.lua</File>
+      <File>Scripts/PrinFes_KyoukaSummer_Script.lua</File>
+    </AddGameplayScripts>
+    <AddUserInterfaces id="PrinFesInGameUI">
+      <Properties>
+        <Context>InGame</Context>
+      </Properties>
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>UI/Addition/PrinFes_Ames_UI.xml</File>
+      <File>UI/Addition/PrinFes_KyoukaSummer_UI.xml</File>
+    </AddUserInterfaces>
+    <UpdateDatabase id="PrinFesExpansion2">
+      <Criteria>LandsolPrinFes_Expansion2</Criteria>
+      <File>Data/PrinFes_Expansion2.xml</File>
+    </UpdateDatabase>
+    <UpdateIcons id="PrinFesIcons">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Data/PrinFes_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="PrinFesArt">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>LandsolPrinFesPack.dep</File>
+    </UpdateArt>
+    <UpdateDatabase id="PrinFesExpansion1">
+      <Criteria>LandsolPrinFes_Expansion1</Criteria>
+      <File>Data/PrinFes_Expansion1.xml</File>
+    </UpdateDatabase>
+    <UpdateAudio id="PrinFesAudio">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Platforms/Windows/Audio/PrinFesBanks.ini</File>
+    </UpdateAudio>
+    <UpdateLogitechARX id="PrinFesARX">
+      <Criteria>LandsolPrinFes</Criteria>
+      <File>Data/ARX/Civ_LEADER_AMES.png</File>
+      <File>Data/ARX/Civ_LEADER_HIKAWA_KYOUKA_SUMMER.png</File>
+      <File>Data/ARX/Civ_LEADER_HIMEMIYA_MAHO_EXPLORER.png</File>
+    </UpdateLogitechARX>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>Data/ARX/Civ_LEADER_AMES.png</File>
+    <File>Data/ARX/Civ_LEADER_HIKAWA_KYOUKA_SUMMER.png</File>
+    <File>Data/ARX/Civ_LEADER_HIMEMIYA_MAHO_EXPLORER.png</File>
+    <File>Data/PrinFes_Buildings.xml</File>
+    <File>Data/PrinFes_Colors.xml</File>
+    <File>Data/PrinFes_Config.xml</File>
+    <File>Data/PrinFes_Ethiopia.xml</File>
+    <File>Data/PrinFes_Expansion1.xml</File>
+    <File>Data/PrinFes_Expansion2.xml</File>
+    <File>Data/PrinFes_GreatPeople.xml</File>
+    <File>Data/PrinFes_Icons.xml</File>
+    <File>Data/PrinFes_KyoukaSummer.sql</File>
+    <File>Data/PrinFes_Leaders.xml</File>
+    <File>Data/PrinFes_Projects.xml</File>
+    <File>Data/PrinFes_UnitAbilities.xml</File>
+    <File>Data/PrinFes_Units.xml</File>
+    <File>LandsolPrinFesPack.dep</File>
+    <File>Platforms/Windows/Audio/LandsolPrinFes_Speech.bnk</File>
+    <File>Platforms/Windows/Audio/LandsolPrinFes_Speech.txt</File>
+    <File>Platforms/Windows/Audio/LandsolPrinFes_Speech.xml</File>
+    <File>Platforms/Windows/Audio/PrinFesBanks.ini</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/leaders/leader_ameth.blp</File>
+    <File>Platforms/Windows/BLPs/leaders/leader_hikawakyoukasummer.blp</File>
+    <File>Platforms/Windows/BLPs/leaders/leader_mahoexplorer.blp</File>
+    <File>Platforms/Windows/BLPs/leaders/light_rigs.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/UI/PrideMoments.blp</File>
+    <File>Platforms/Windows/BLPs/UI/UI_GreatWorksArt.blp</File>
+    <File>Platforms/Windows/BLPs/UI_LeaderScenes.blp</File>
+    <File>Scripts/PrinFes_Ames_Script.lua</File>
+    <File>Scripts/PrinFes_KyoukaSummer_Script.lua</File>
+    <File>Scripts/PrinFes_MahoExplorer_Script.lua</File>
+    <File>Text/PrinFes_ConfigText_AFallback.xml</File>
+    <File>Text/PrinFes_ConfigText_Translations.xml</File>
+    <File>Text/PrinFes_Text_AFallback.xml</File>
+    <File>Text/PrinFes_Text_Translations.xml</File>
+    <File>UI/Addition/PrinFes_Ames_UI.lua</File>
+    <File>UI/Addition/PrinFes_Ames_UI.xml</File>
+    <File>UI/Addition/PrinFes_KyoukaSummer_UI.lua</File>
+    <File>UI/Addition/PrinFes_KyoukaSummer_UI.xml</File>
+  </Files>
+</Mod>
