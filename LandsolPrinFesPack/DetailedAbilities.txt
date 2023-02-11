@@ -1,0 +1,99 @@
+For who wants a detailed description of these leader instead of a first-look-style text:
+
+Ameth
+
+Rifàre Piuma
+
+If an unit having 2 or more promotion levels is killed in combat, receive a free unit of the same kind in your capital. Starts the game with 20 Faith (on Standard Speed). If Ameth has not founded a Religion, grants a free Great Prophet when their first Holy Site is constructed. Ameth and Kokkoro are seen as duplicate leaders. Gain the Kokkoro unique unit.
+
+Fiore Felicità
+
+When the first technology or civic of a new Era is researched, earn an Eureka and Inspiration of that Era. When in a Dark Age, Eurekas and Inspirations can finish research of technologies or civics instantly. +2 Science, +2 Production, and +4 Gold from each Memory Piece Great Work.
+
+Guildhouse bonus: 
+
+[Rise & Fall] Has slots for 3 Great Works of Art. Unlocks the Enter Dream World project, which grants a Guild Member that generates a Memory Piece Great Work when activated upon completion.
+
+[Gathering Storm] Has slots for 3 Great Works of Art, and is automatically themed when it have all its slots filled. Unlocks the Enter Dream World project, which grants a Guild Member that generates a Memory Piece Great Work when activated upon completion.
+
+Kokkoro (unit)
+
+Landosol unique anti-cavalry unit when Ameth is their leader. Can only earn 1 by founding a Religion. Has 3 Movement. Has base Combat Strength equal to the strongest unit your cities have produced. When killed, retreats with 1 HP to the Capital. Has a unique promotion tree.
+
+Maho (Explorer)
+
+Maho Maho Adventurers
+
++50% Production toward recon units. +7 Combat Strength on a continent other than your home continent to recon units. May construct the Maho Maho Camp in the City Center.
+
+Fairytale Exploration
+
+Receives +1 Culture for each Delegation or Embassy from a foreign civilization. Each time you found your first city on a continent other than your home continent receive a free Settler and a recon unit. +1 Movement on a continent other than your home continent to all units.
+
+Guildhouse bonus: +50% combat experience and +5 Combat Strength for all land units trained in this city. Additional +5 Combat Strength when these units are in your territory or adjacent to your territory. +2 Amenity when this city has a garrisoned unit.
+
+Maho Maho Camp
+
+A building unique to Maho (Explorer). Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1 Culture. Additional +1 Loyalty per turn and +2 Gold if built in a city not on your original Capital's continent. Improved Cotton and Dyes in this city gain +1 Culture each.
+
+Kyoka (Summertime)
+
+Aqua Crest
+
+Each improvement on or next to Coast or Lake tiles provides random amounts of extra Science, Production or Culture, which add up to 2 per tile.
+
+Summer Aqua Flock
+
+Each building or improvement on or next to Coast or Lake tiles provides +3% Science, Production and Culture to the city it is in, and each district on or next to Coast or Lake tiles provides +9%, up to a total of +30% per city. Ranged attacks of ranged units deal -7 Combat Strength to the target unit.
+
+Guildhouse bonus: +2 Amenities, +2 Culture, +1 Great Engineer, Great Merchant, Great Writer, Great Artist and Great Musician point.
+
+提供给更喜欢直接看详细的能力说明的玩家：
+
+爱梅斯
+
+重塑之羽
+
+若2级或以上的单位在战斗中阵亡，在首都获得一个免费的同类单位。以20点信仰值开始游戏（标准速度下）。若未创立宗教，建造圣地后立即获得一个大预言家。爱梅斯与可可萝被视为重复领袖。获得特色单位“可可萝”。
+
+繁花之幸
+
+研发新时代的首个科技或市政后获得1个该时代的尤里卡和鼓舞。处于黑暗时代时，尤里卡和鼓舞可立即完成科技或市政。每个记忆碎片巨作提供 +2科技值、+2生产力、+4金币。
+
+公会之家加成：
+
+【迭起兴衰】拥有3个艺术巨作槽位。解锁“入梦”项目，在完成时赠予一个能够生成记忆碎片巨作的公会成员。
+
+【风云变幻】拥有3个艺术巨作槽位，全部槽位填满时可自动获得主题。解锁“入梦”项目，在完成时赠予一个能够生成记忆碎片巨作的公会成员。
+
+可可萝（单位）
+
+爱梅斯作为领袖时的兰德索尔特色抗骑兵单位。仅能在创立宗教时免费获得一个。有3点移动力。基础战斗力等于城市曾生产之最强单位的战斗力。被击杀时将保留1点体力值，撤退至首都。拥有独特的升级树。
+
+真步（探险家）
+
+真步真步冒险团
+
+生产侦查单位时 +50% 生产力。侦查单位在非首都所在大陆 +7 战斗力。可在市中心中建造真步真步营地。
+
+童话探险
+
+外国文明的每个代表团或大使馆提供 +1 文化值。在新大陆（非首都所在大陆）建造首座城市时免费获得1个开拓者和1个侦查单位。所有单位在非首都所在大陆时 +1 移动力。
+
+公会之家加成：本城市训练的单位获得 +50% 战斗经验值和 +5 战斗力，位于或靠近领土作战时额外 +5 战斗力。此城市拥有驻军单位时 +2  宜居度。
+
+真步真步营地
+
+真步（探险家）特色建筑。使此城每回合的忠诚度 +1。如城市忠诚度已达最高，则额外 +1 文化值。若建设在与原始首都不在同一大陆的城市中，此城每回合的忠诚度额外 +1，并 +2 金币。本城市已改良的棉花和染料 +1 文化值。
+
+镜华（夏日戏水）
+
+水跃浪峰
+
+相邻或位于海岸或湖泊的改良设施产出随机数额的额外科技值、生产力或文化值，总计 2 点。
+
+夏日水弹群
+
+每个相邻或位于海岸或湖泊的建筑和改良设施为所在城市 +3% 科技值、生产力和文化值，每个相邻或位于海岸或湖泊的区域则 +9%，每座城市上限 30%。远程单位的攻击使目标单位在3回合内 -7 战斗力。
+
+公会之家加成：+2宜居度，+2文化值，+1大工程师、大商人、大文学家、大艺术家和大音乐家点数。

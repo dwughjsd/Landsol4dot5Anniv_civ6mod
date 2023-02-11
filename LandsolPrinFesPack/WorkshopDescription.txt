@@ -1,0 +1,143 @@
+[h1]↑好评是工坊最有用的赞誉，轻点一下就能给出。给我们的作品点好评就能激励我们继续努力，谢谢♪
+
+欢迎加入“圣特蕾莎文明mod学园”QQ群（519747236）寻访关于我们的作品的最新动态。[/h1]
+
+此mod需要[url=steamcommunity.com/sharedfiles/filedetails/?id=2815423792]“兰德索尔的儿童领袖包”[/url]以及迭起兴衰或风云变幻资料片的其中之一才能运行。平衡性以风云变幻资料片中的数值为准。
+
+[h1]支持语言：简体中文、英语[/h1]
+
+[h1]爱梅斯、真步（探险家）、镜华（夏日戏水）领导的兰德索尔：先睹为快[/h1]
+
+使用全新的领袖进行统治吧——本模组包含了3位《公主连结 Re:Dive》游戏发布4.5周年之际发布的角色，为领导兰德索尔的玩家提供更多不同的统治方式。
+
+[b]爱梅斯[/b]的特色能力是“[b]重塑之羽[/b]”。这项能力使其能够重塑阵亡的高级单位，并在游戏开始时免费获得信仰值。一旦建造圣地，他们可以立即获得大预言家并随后获得一个强力的战斗单位“[b]可可萝[/b]”。可可萝有独特的升级树且可以撤退回首都，但在一局游戏中只能获得一次。
+
+公主骑士为她提供的能力是“[b]繁花之幸[/b]”。研发新时代的首个科技或市政后获得1个该时代的尤里卡和鼓舞。处于黑暗时代时，尤里卡和鼓舞可立即完成科技或市政。爱梅斯可以在建有公会之家的城市开展“入梦”特色项目，这一项目将为他们提供记忆碎片巨作，提供给他们大量额外产出。
+
+[b]真步（探险家）[/b]的特色能力是“[b]真步真步冒险团[/b]”。侦察单位的生产更加快速，且在新大陆上获得额外的战斗力。有了这一特性，他们将能够更加快速地探索世界。特色建筑[b]真步真步营地[/b]使棉花和染料提供额外文化值，在新大陆上还提供额外的忠诚度和金币。
+
+“[b]童话探险[/b]”是公主骑士提供给探险家真步的额外能力。外国文明的每个代表团或大使馆均为真步提供文化值。在一片新大陆上，他们的单位行动更加迅速，建立第一座城市时还可以免费获得开拓者和侦察单位。
+
+[b]镜华（夏日戏水）[/b]的特色能力是“[b]水跃浪峰[/b]”，这项能力使得他们在海边能够占据优势。相邻或位于海岸或湖泊的改良设施产出随机数额的额外科技值、生产力或文化值。
+
+与她的领袖能力相配合的是公主骑士提供的额外能力“[b]夏日水弹群[/b]”。在沿海地区建设区域、建筑和改良设施便可为城市带来可观的科技值、生产力和文化值加成。同时，远程单位的攻击可以降低目标单位的战斗力。
+
+您将会如何使用这些全新或是经过更新的领袖？您将会如何带领兰德索尔建立经得起时间考验的文明？
+
+[b]能力详情请参阅讨论贴。[/b]
+
+[h1]模组特性：[/h1]
+
+[b]强力而不超模。[/b]每位领袖的能力均鼓励一种独特的游玩方式，并在设计时充分考虑了领袖的能力强度，使其拥有充分的竞争力但并不显著过强。
+
+[b]忠于原作。[/b]本作品在制作过程中进行了精细的考证，包括人名、地名、城市名称和外交用语，以尽最大可能表现原作的风土人情和领袖性格特征。
+
+[b]和谐风格。[/b]所有已制作的美术素材均参照《文明6》游戏的规格进行处理，确保其在各个界面正确显示且整洁清爽。
+
+[b]领袖语音。[/b]她们均有与游戏内文本相符合的，提取自原作游戏的语音。
+
+[h1]已知问题：[/h1]
+
+文明百科仅支持简体中文。
+
+[h1]需要帮助：[/h1]
+
+（1）领袖动画
+（2）更多语言的本地化
+（3）图标和时代得分美术
+
+[h1]向大家介绍 Shimamura et al.[/h1]
+
+Shimamura et al. （字面意思为“岛村和其他人”）简而言之就是 UzukiShimamura卯月 与小伙伴们的合作团队——我们由一群富有经验的文明6mod制作者组成，致力于设计富有特色而与原版游戏相协调的领袖mod。当然，如果你能做得更好，我们也需要你的帮助！
+
+本组合包的三位领袖分别由三人（当然，卯月我是主创）完成主要特性的实现：
+
+[b][url=steamcommunity.com/id/kevinxy]Kevin Liu[/url][/b]（也许很多人都听说过他）构建了镜华（夏日戏水）的主要内容！同时，他还负责：
+（1）设计了爱梅斯的领袖特性“重塑之羽”；
+（2）为记忆碎片巨作以及领袖提供部分预处理的美术素材；
+（3）为爱梅斯建立了台词语料库以便设计外交语句。
+
+[b][url=steamcommunity.com/profiles/76561198327796822/]www139154[/url][/b]（在工坊很低调，但于我们不可或缺）构建了真步（探险家）的主要内容！同时，他还负责了本mod所有领袖的大部分平衡性测试，并且在制作过程中提了很多有益（有时候也不一定有益）的设计建议。
+
+除此之外，这个作品还仰赖他们的支持：
+
+[b][url=steamcommunity.com/profiles/76561199176603410/]皮皮凯[/url][/b]：负责了招募公会成员的Lua脚本。
+[b][url=steamcommunity.com/id/quirrell_]quirrell[/url][/b]：帮助完成平衡性调整并制作了可可萝单位的图标。
+[b][url=steamcommunity.com/profiles/76561199011354539]wach[/url][/b]：找出了巨作美术的命名方式，帮助我迅速解决了巨作的显示问题。
+[b][url=steamcommunity.com/profiles/76561198181931490]月海之沙[/url][/b]、[b][url=steamcommunity.com/profiles/76561198286338454]榊野木乃实[/url][/b]，还有其它朋友们：支持我做出这个作品，并将它送上工坊！
+
+需要mod制作支持，或者发现了什么问题吗？请在Steam私信，或加入QQ群“圣特蕾莎文明mod学园”（519747236）联系我。
+
+在[url=github.com/dwughjsd]我的GitHub[/url]（仅英文）上可以查看我所有作品的工程文件。给我Star或者提出Pull Request就更好了！
+
+[h1]↑ Positive rates are the most useful awards in the Workshop and can be easily given by simply clicking the thumbs up button. Click it and you can encourage us to do better![/h1]
+
+You need the [url=steamcommunity.com/sharedfiles/filedetails/?id=2815423792]Little Lead-rical Leader Pack[/url] and either Rise and Fall or Gathering Storm to use this mod. All gameplay balancing is set to fit Gathering Storm ruleset.
+
+[h1]Supported language: Simplified Chinese, English[/h1]
+
+[h1]Ameth, Maho (Explorer) and Kyoka (Summertime) Lead Landosol: First Look[/h1]
+
+Rule with brand new leaders - this mod contains 3 characters released near the 4.5 years anniversary of mobile game Princess Connect Re:Dive, providing more different ways to rule for players leading Landosol.
+
+[b]Ameth[/b]'s unique ability is [b]Rifàre Piuma[/b] (literally "Reshap(ing) Feather(s)"). [i](Note: This name might be a mistranslation by the original game of "reshaping wings" since the word for "wing" in Japanese can also be interpreted as "feather", and the Italian words they used seem to be grammatically incorrect. We used the name as is for now.)[/i] This ability allows them to retrain units with high levels when they are killed, and grants free Faith when game starts. Once they build a Holy Site, they can gain a Great Prophet at once and later receive a [b]Kokkoro[/b], a powerful combat unit which has a unique promotion tree and can retreat to capital but can only be acquired once per game.
+
+Princess Knight grants her [b]Fiore Felicità[/b] (literally "Flower Happiness"). When the first technology or civic of a new Era is researched, earn an Eureka and Inspiration of that Era. When in a Dark Age, Eurekas and Inspirations can finish research of technologies or civics instantly. Ameth can initiate Enter Dream World unique project in cities having a Guildhouse, which grant Memory Piece great works that provide much extra yields for them.
+
+Unique ability of [b]Maho (Explorer)[/b] is [b]Maho Maho Adventurers[/b]. They train recon units faster and recon units have bonus Combat Strength on a new continent. With this ability, they can explore the world faster. Unique building [b]Maho Maho Camp[/b] allows Cotton and Dyes in the city it is in gain extra Culture, and provides extra Loyalty and Gold in new continents.
+
+[b]Fairytale Exploration[/b] is the unique ability that Princess Knight provides for Explorer Maho. Each Delegation or Embassy from a foreign civilization provides extra Culture for Explorer Maho. On a new continent, their units move faster, and they can receive a free Settler and a recon unit when they found the first city.
+
+[b]Kyoka (Summertime)[/b] has a unique ability named [b]Aqua Crest[/b] which provides advantages when they are near Coasts. Each improvement on or next to Coast or Lake tiles provides random amounts of extra Science, Production or Culture.
+
+The extra ability that Princess Knight provides in synergy with her leader ability is [b]Summer Aqua Flock[/b]. Constructing districts, buildings and improvements in coastal areas provides considerable bonus Science, Production and Culture for their cities. In addition, ranged attacks of ranged units can reduce Combat Strength to the target unit.
+
+How will you use these brand new or updated leaders? How will you lead Landosol to build a civilization that stands the test of time?
+
+[b]For detailed ability description, see discussions.[/b]
+
+[h1]Mod Highlights:[/h1]
+
+[b]"Powered" without "Over"[/b]: Each Landosol leader has several abilities that promote a unique play-style. This mod is designed to make abilities of all leaders included competent but not overpowered.
+
+[b]Lore-Loyalty[/b]: This mod is made with a fine research of the original franchise, and provides full lists of named places, citizen names, city names and diplomacy statements to better represent lore and leader characteristics.
+
+[b]Harmonized Mix[/b]: All art assets included in this mod are processed to fit the need of Civilization VI, so that they can display correctly and neatly.
+
+[b]Voiced Leader[/b]: All of new leaders have speech audio extracted from the original game which corresponds to in-game text.
+
+[h1]Known issues:[/h1]
+
+Some Civilopedia articles are in Simplified Chinese only.
+
+Names of Ameth's traits are direct restorations of the original Japanese transcriptions of Italian words which might be grammatically incorrect. None of authors of this mod can speak Italian, so we might need some support to set better ability names.
+
+[h1]Help needed:[/h1]
+
+(1)Leader animations
+(2)More localization (text)
+(3)Icons and historical moment assets
+
+[h1]Introducing Shimamura et al.[/h1]
+
+Shimamura et al. (literally means "Shimamura and other people") is the team of UzukiShimamura and his friends, a group of experienced modders trying their best to design some leader mods that are unique while keeping harmony with vanilla game. And of course, WE NEED YOUR SUPPORT if you can do better than us!
+
+Main features of the 3 new leaders in this pack are implemented by 3 people respectively (and of course I, UzukiShimamura, am the lead designer):
+
+[b][url=steamcommunity.com/id/kevinxy]Kevin Liu[/url][/b] (many of you might have heard of him before) built main content of Kyoka (Summertime)! He also:
+(1) Designed Ameth's leader ability;
+(2) Provided preprocessed art assets for Memory Piece Great Works and leaders;
+(3) Set up a corpus of Ameth's lines so that we can design her diplomacy statements.
+
+[b][url=steamcommunity.com/profiles/76561198327796822/]www139154[/url][/b] (who keeps a low profile on Workshop but essential for us) built main content of Maho (Explorer)! He also performed most balancing tests of all leaders in this mod and provided many beneficial (sometimes no that much beneficial) suggestions about leader abilities.
+
+In addition, this mod relies on their support:
+
+[b][url=steamcommunity.com/profiles/76561199176603410/]Handsome Kai (PiPiKai)[/url][/b]: For the lua script for recruiting Guild Members.
+[b][url=steamcommunity.com/id/quirrell_]quirrell[/url][/b]: For balancing tweaks and the icon of Kokkoro unit.
+[b][url=steamcommunity.com/profiles/76561199011354539]wach[/url][/b]: For finding out the naming scheme of Great Work arts to solve the displaying issue of Great Work arts.
+[b][url=steamcommunity.com/profiles/76561198181931490]月海之沙[/url][/b], [b][url=steamcommunity.com/profiles/76561198286338454]榊野木乃实[/url][/b] and other friends: For supporting us to make this mod and send it to the Workshop!
+
+Need modding support, or found some issues? PM me on Steam or join QQ group 519747236 to contact me.
+
+View project files of all my work on [url=github.com/dwughjsd]GitHub[/url]. It would be much appreciated if you can be my Stargazer or come up with some Pull Requests!
