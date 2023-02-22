@@ -12,14 +12,17 @@
     <Text id="LOC_LANDSOL_PRINFES_PACK_TITLE">
       <en_US>4.5 Years Anniversary of Landosol Leader Pack</en_US>
       <zh_Hans_CN>兰德索尔4.5周年领袖包</zh_Hans_CN>
+      <ko_KR>4.5주년 랜드솔 리더 팩</ko_KR>
     </Text>
       <Text id="LOC_LANDSOL_PRINFES_PACK_TEASER">
       <en_US>New Alternate Leaders - Ameth, Maho (Explorer) and Kyoka (Summertime) of Landosol</en_US>
       <zh_Hans_CN>全新可选领袖——兰德索尔的爱梅斯、真步（探险家）和镜华（夏日戏水）</zh_Hans_CN>
+      <ko_KR>추가 지도자 - 랜드솔의 아메스, 마호(탐험가)와 쿄우카(여름)</ko_KR>
     </Text>
       <Text id="LOC_LANDSOL_PRINFES_PACK_DESCRIPTION">
       <en_US>Contains 3 new alternative Leaders for existing Civilization. Includes Ameth, Maho (Explorer) and Kyoka (Summertime).</en_US>
       <zh_Hans_CN>包含现有文明的3位新可选领袖。包括爱梅斯、真步（探险家）和镜华（夏日戏水）。</zh_Hans_CN>
+      <ko_KR>이미 존재하는 문명에 세 추가 지도자를 생성합니다. 아메스와 마호(탐험가), 쿄우카(여름)을 포함합니다.</ko_KR>
     </Text>
   </LocalizedText>
   <Dependencies>
