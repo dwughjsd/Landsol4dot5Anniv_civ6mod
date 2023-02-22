@@ -4,7 +4,7 @@
 
 此mod需要[url=steamcommunity.com/sharedfiles/filedetails/?id=2815423792]“兰德索尔的儿童领袖包”[/url]以及迭起兴衰或风云变幻资料片的其中之一才能运行。平衡性以风云变幻资料片中的数值为准。
 
-[h1]支持语言：简体中文、英语[/h1]
+[h1]支持语言：简体中文、英语、韩语[/h1]
 
 [h1]爱梅斯、真步（探险家）、镜华（夏日戏水）领导的兰德索尔：先睹为快[/h1]
 
@@ -64,6 +64,7 @@ Shimamura et al. （字面意思为“岛村和其他人”）简而言之就是
 [b][url=steamcommunity.com/profiles/76561199176603410/]皮皮凯[/url][/b]：负责了招募公会成员的Lua脚本。
 [b][url=steamcommunity.com/id/quirrell_]quirrell[/url][/b]：帮助完成平衡性调整并制作了可可萝单位的图标。
 [b][url=steamcommunity.com/profiles/76561199011354539]wach[/url][/b]：找出了巨作美术的命名方式，帮助我迅速解决了巨作的显示问题。
+[b][url=steamcommunity.com/profiles/76561198283559923/]MIMMIMME[/url][/b]：提供韩语翻译。
 [b][url=steamcommunity.com/profiles/76561198181931490]月海之沙[/url][/b]、[b][url=steamcommunity.com/profiles/76561198286338454]榊野木乃实[/url][/b]，还有其它朋友们：支持我做出这个作品，并将它送上工坊！
 
 需要mod制作支持，或者发现了什么问题吗？请在Steam私信，或加入QQ群“圣特蕾莎文明mod学园”（519747236）联系我。
@@ -74,7 +75,7 @@ Shimamura et al. （字面意思为“岛村和其他人”）简而言之就是
 
 You need the [url=steamcommunity.com/sharedfiles/filedetails/?id=2815423792]Little Lead-rical Leader Pack[/url] and either Rise and Fall or Gathering Storm to use this mod. All gameplay balancing is set to fit Gathering Storm ruleset.
 
-[h1]Supported language: Simplified Chinese, English[/h1]
+[h1]Supported language: Simplified Chinese, English, Korean[/h1]
 
 [h1]Ameth, Maho (Explorer) and Kyoka (Summertime) Lead Landosol: First Look[/h1]
 
@@ -136,6 +137,7 @@ In addition, this mod relies on their support:
 [b][url=steamcommunity.com/profiles/76561199176603410/]Handsome Kai (PiPiKai)[/url][/b]: For the lua script for recruiting Guild Members.
 [b][url=steamcommunity.com/id/quirrell_]quirrell[/url][/b]: For balancing tweaks and the icon of Kokkoro unit.
 [b][url=steamcommunity.com/profiles/76561199011354539]wach[/url][/b]: For finding out the naming scheme of Great Work arts to solve the displaying issue of Great Work arts.
+[b][url=steamcommunity.com/profiles/76561198283559923/]MIMMIMME[/url][/b]: For Korean translations.
 [b][url=steamcommunity.com/profiles/76561198181931490]月海之沙[/url][/b], [b][url=steamcommunity.com/profiles/76561198286338454]榊野木乃实[/url][/b] and other friends: For supporting us to make this mod and send it to the Workshop!
 
 Need modding support, or found some issues? PM me on Steam or join QQ group 519747236 to contact me.

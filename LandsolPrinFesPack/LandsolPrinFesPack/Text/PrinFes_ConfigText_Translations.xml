@@ -8,7 +8,6 @@
 		<Row Tag="LOC_TRAIT_LEADER_AMES_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>若2级或以上的单位在战斗中阵亡，在首都获得一个免费的同类单位。以20点 [ICON_Faith] 信仰值开始游戏（标准速度下）。若未创立宗教，建造圣地后立即获得一个 [ICON_GreatProphet] 大预言家。爱梅斯与可可萝被视为重复领袖。获得特色单位“可可萝”。</Text>
 		</Row>
-		
 
 		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_NAME" Language="zh_Hans_CN">
 			<Text>繁花之幸</Text>
@@ -121,6 +120,128 @@
 			<Text>{LOC_TRAIT_CIVILIZATION_LANDSOL_ALL_DESCRIPTION}“{LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_NAME}”：{LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION}</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HIKAWA_KYOUKA_SUMMER" Language="zh_Hans_CN">
+			<Text>{LOC_LOADING_INFO_LEADER_HIKAWA_KYOUKA}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_AMES_NAME" Language="ko_KR">
+			<Text>리파레피우마</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_AMES_DESCRIPTION" Language="ko_KR">
+			<Text>2개 이상의 진급을 가진 유닛이 전투에서 사망하면, 그 유닛과 같은 종류의 유닛을 수도에서 재생성합니다. 20 [ICON_Faith] 신앙을 가지고 시작합니다 (보통 속도 기준). 아메스가 아직 종교를 창설하지 않았다면, 처음 성지를 건설할때 [ICON_GreatProphet] 위대한 예언자를 얻습니다. 아메스와 콧코로는 같은 지도자로 간주됩니다. 고유 유닛 콧코로를 얻습니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_NAME" Language="ko_KR">
+			<Text>피오레 펠리치타</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_SHARED" Language="ko_KR">
+			<Text>새 시대의 첫 기술이나 사회제도가 연구되면, 그 시대의 [ICON_TechBoosted] 유레카와 [ICON_CivicBoosted] 영감을 얻습니다. 암흑기일때, [ICON_TechBoosted] 유레카와 [ICON_CivicBoosted] 영감은 기술과 사회제도를 즉시 완료합니다. 각 [ICON_GreatWork_Portrait] 메모리 피스에서 +2 [ICON_Science] 과학, +2 [ICON_Production] 생산력, 그리고 +4 [ICON_Gold] 금.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION" Language="ko_KR">
+			<Text>{LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_SHARED}{LOC_TRAIT_AMES_GUILDHOUSE_BONUS}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_XP2" Language="ko_KR">
+			<Text>{LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_SHARED}{LOC_TRAIT_AMES_GUILDHOUSE_BONUS_XP2}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LANDSOL_AMES_DESCRIPTION" Language="ko_KR">
+			<Text>{LOC_TRAIT_CIVILIZATION_LANDSOL_ALL_DESCRIPTION} {LOC_TRAIT_LEADER_FIORE_FELICITA_NAME}: {LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LANDSOL_AMES_DESCRIPTION_XP2" Language="ko_KR">
+			<Text>{LOC_TRAIT_CIVILIZATION_LANDSOL_ALL_DESCRIPTION} {LOC_TRAIT_LEADER_FIORE_FELICITA_NAME}: {LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_XP2}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_AMES_GUILDHOUSE_BONUS" Language="ko_KR">
+			<Text>[NEWLINE][NEWLINE] 길드하우스 보너스 : 걸작 슬롯 3개를 얻습니다. 채워지면 자동으로 테마 보너스를 제공합니다. [ICON_GreatWork_Portrait] 메모리 피스를 만들어낼수 있는 고유 프로젝트 꿈의 세계 진입 을 해금합니다. </Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_AMES_GUILDHOUSE_BONUS_XP2" Language="ko_KR">
+			<Text>[NEWLINE][NEWLINE] 길드하우스 보너스 : 걸작 슬롯 3개를 얻습니다. 채워지면 자동으로 테마 보너스를 제공합니다. [ICON_GreatWork_Portrait] 메모리 피스를 만들어낼수 있는 고유 프로젝트 꿈의 세계 진입 을 해금합니다. </Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_AMES_NAME" Language="ko_KR">
+			<Text>아메스</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_LANDSOL_KOKKORO_AMES_NAME" Language="ko_KR">
+			<Text>콧코로</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_LANDSOL_KOKKORO_AMES_DESCRIPTION" Language="ko_KR">
+			<Text>아메스가 지도자일때 사용 가능한 고유의 대기병 유닛입니다. 종교를 창설할때 단 한번 얻을수 있고, 3 의 [ICON_Movement] 이동력을 가집니다. 기본 [ICON_Strength] 전투력은 도시에서 생산한 최강의 유닛과 같습니다. 처치되면 1의 체력을 남기고 [ICON_Capital] 수도로 복귀합니다. 고유 승급 특성을 가집니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMES" Language="ko_KR">
+			<Text>신자들의 기도를 듣고 여신으로서의 임무를 수행하십시오. 당신의 전도사들은 그 어떤 고난에도 충직함을 유지할것입니다. 꿈을 통해 미지를 밝혀내고 시련을 견뎌내십시오. 역사를 재구성하고 해피엔딩을 직접 짜내봅시다!</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_HIMEMIYA_MAHO_EXPLORER_NAME" Language="ko_KR">
+			<Text>마호(탐험가)</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_NAME" Language="ko_KR">
+			<Text>마호마호모험단</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="ko_KR">
+			<Text>유닛 생산시 +50% [ICON_Production] 생산력. 다른 대륙에서 +7 [ICON_Strength] 전투력. 도심부에 마호마호캠프 건설 가능. </Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME" Language="ko_KR">
+			<Text>동화 속 모험</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_DESCRIPTION" Language="ko_KR">
+			<Text>다른 문명에서 보낸 대사단이나 외교단 하나당 +1 [ICON_CULTURE] 문화. 다른 대륙에 처음 도시를 세우면 무료 개척자와 정찰유닛을 받습니다. 다른 대륙에 있는 유닛은 +1 [ICON_Movement] 이동력. {LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS}</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LANDSOL_HIMEMIYA_MAHO_EXPLORER_DESCRIPTION" Language="ko_KR">
+			<Text>{LOC_TRAIT_CIVILIZATION_LANDSOL_ALL_DESCRIPTION}“{LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME}”：{LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_DESCRIPTION}</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_NAME" Language="ko_KR">
+			<Text>마호마호캠프</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_DESCRIPTION" Language="ko_KR">
+			<Text>마호(탐험가)특유의 건물. 이 도시에 턴당 충성심 +1. 이 도시가 이미 최대 충성도를 가지고 있다면, 대신 +1  [ICON_Culture] 문화. 수도와 다른 대륙에 있다면 추가로 +1 충성심과 +2 [ICON_Gold] 금.이 도시의 개발된 [ICON_RESOURCE_COTTON] 목화와 [ICON_RESOURCE_DYES] 염료에서 +1 [ICON_Culture] 문화.</Text>
+		</Row>
+
+		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="ko_KR">
+			<Text>[NEWLINE][NEWLINE]길드하우스 보너스：이 도시에서 훈련하는 유닛들은  +50% 추가 경험치와 +5 [ICON_Strength] 전투력을 얻음. 자국 영토 내, 또는 인접한 상태에서 전투할 경우 추가로 +5 [ICON_Strength] 전투력. 이 도시에 주둔 부대가 있는동안 +2 [ICON_Amenities] 쾌적도. </Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_HIMEMIYA_MAHO_EXPLORER" Language="ko_KR">
+			<Text>동화속 세상의 마호 공주시여, 당신의 시대가 왔습니다. 세상은 어둠에 휩싸여있지만 언제나 그 속의 빛을 찾아낼수 있는 당신이 이끄는 군대가 정원을 벗어나 원정을 떠날 준비가 되었습니다. 당신과 국민들이 서로를 믿고 마법같은 힘을 얻어 꿈을 이룰수 있기를!</Text>
+		</Row>
+
+		<Replace Tag="LOC_LEADER_HIKAWA_KYOUKA_NAME" Language="ko_KR">
+			<Text>쿄우카(키즈모델)</Text>
+		</Replace>
+
+		<Row Tag="LOC_LEADER_HIKAWA_KYOUKA_SUMMER_NAME" Language="ko_KR">
+			<Text>쿄우카(여름)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AQUA_CREST_NAME" Language="ko_KR">
+			<Text>아쿠아 크레스트</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AQUA_CREST_DESCRIPTION" Language="ko_KR">
+			<Text>해안이나 호수, 또는 그와 인접한 타일에 건설된 시설에서 무작위로 추가 [ICON_Science] 과학, [ICON_Production] 생산력, 또는 [ICON_Culture] 문화를 최대 2까지 생산합니다.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_NAME" Language="ko_KR">
+			<Text>서머 아쿠아 플록</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION" Language="ko_KR">
+			<Text>호수나 해안이나 그에 인접하게 건설된 건물이나 시설에서 +3% [ICON_Science] 과학, [ICON_Production] 생산력과 [ICON_Culture] 문화를 제공하며, 호수나 해안이나 그에 인접하게 건설된 특수지구에서 +9%씩 제공해 최대 30% 까지 도시를 강화합니다. 원거리 유닛의 원거리 공격은 대상 유닛에게 -7 [ICON_Strength] 전투력. {LOC_TRAIT_LITTLE_LYRICAL_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LANDSOL_HIKAWA_KYOUKA_SUMMER_DESCRIPTION" Language="ko_KR">
+			<Text>{LOC_TRAIT_CIVILIZATION_LANDSOL_ALL_DESCRIPTION}“{LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_NAME}”：{LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HIKAWA_KYOUKA_SUMMER" Language="ko_KR">
 			<Text>{LOC_LOADING_INFO_LEADER_HIKAWA_KYOUKA}</Text>
 		</Row>
 	</LocalizedText>

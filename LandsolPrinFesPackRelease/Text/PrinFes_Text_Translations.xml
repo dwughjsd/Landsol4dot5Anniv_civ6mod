@@ -906,5 +906,908 @@
 		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="zh_Hans_CN">
 			<Text>{LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
 		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_TITLE" Language="ko_KR">
+			<Text>피오</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_SUBTITLE" Language="ko_KR">
+			<Text>새로운 모습으로 기사의 모험을 계속 지탱해주는 요정</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+			<Text>프린세스 나이트의 도움을 받아, 랜드솔의 리더는 강력한 추가 효과를 제공하는 특별한 유니온 버스트 를 해금할수 있습니다. 아메스는 무슨 일이 있다 하더라도 프린세스 나이트를 지키며, 그와의 기억을 세계의 끝까지 간직합니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_DETAILED_BODY" Language="ko_KR">
+			<Text>아메스는 그녀의 추종자들을 꿈속에서 이끌어 세계의 진실을 밝힙니다. 이들은 추가 [ICON_Faith] 신앙과 무료 [ICON_GreatProphet] 위대한 선지자를 통해 게임 초기부터 종교를 창설할 수 있으며, 호위병으로 콧코로를 얻을 수 있습니다. 게임이 진행되면, 이들은 새로운 시대에 들어설 때 [ICON_TechBoosted] 유레카와 [ICON_CivicBoosted] 영감을 얻습니다. 길드하우스를 지어 꿈속 세계 진입 프로젝트를 완료하는 것으로 [ICON_GreatWork_Portrait] 메모리 피스 걸작을 얻고, 이를 통해 여러 승리를 노려볼수 있습니다. 시대 점수에는 너무 연연하지 마세요, 암흑기가 찾아온다 해도 아메스는 최선을 다할것입니다!</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_AMES_QUOTE" Language="ko_KR">
+			<Text>네가 방금 본건 그저 꿈에 불과해. 기억할거리도 못될거야, 깨어나면 금방 잊어버릴테니까.</Text>
+		</Row>
+    	
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>내 도움이 필요해보이네. 도와줄게. 고마워하라고, 알겠지?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>내가 아니더라도 너한텐 친구가 많잖아? 그 애들한테 신경써줘.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>처음 만났을땐 이렇게 될거라고는 생각 못했지만, 내 우정을 받아들여줄래?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>좋아, 최선을 다해 널 도울게.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>그래도 널 홀로 내버려두진 않을거야.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>그래? 어디 날 쓰러트릴수 있나 해봐.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>가만히 기다리다가 세계가 멸망하게 내버려둘수는 없으니까, 가만히 있을수는 없겠지?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>내 존중을 담아, 이들을 최고의 예우로 대할게.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>아니, 오지 말아줘. 뭔가 추측 못하게 이 이상은 아무 말도 안할거야.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>우리 대표단이 널 위해 특별히 만들어진, 달콤하고 아름다운 꿈을 가져갈거야. 편안하게 즐겨둬!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>우리가 다툴 필요는 없을텐데.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>대체 어떻게 이따위 일이... 너 어디 잘못된거야? (공개 비난)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>나는... 음, 아메스라고 불러줘. 요새는 다들 그렇게 부르거든. 네 삶과 현실이 행복으로 가득하기를 바라.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>드디어 내가 가고싶은곳으로 누구를 데려갈수 있게 되었어... 이 근처에 있는 우리 도시에 방문해볼래?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>아, 고마워.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>너희 수도에 대해선 네가 잘 알고있지? 좀 소개해줘. 거기 마물 요리 말고 먹을만한거 있어? 크레이프도 빼고.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>계속 이렇게 다른 사람을 도우면, 언젠가는 분명 보답받을거야.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>네가 다른 사람들과 맺은 인연이 널 구원할거야. 그 연결이야말로 가장 큰 무기지. 잊지 마.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>같이 동맹을 맺지 않을래?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>미안한데, 네 군대를 국경에서 좀 빼줄래? 너무 거슬리면 나도 걔네를 때려버릴거야.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>안돼, 모두들...! 여기서 질수는 없는데!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>응, 고마워.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>내가 하는 말을 하나도 못알아듣고있구나.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>다시 만나서 반가워.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>우리 모두가 언젠가 평화를 찾게되면 좋을텐데.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>현실세계에서는, 단순한 소원만으로는 아무것도 이룰 수 없어.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>우리의 군대와 국민들... 이 모두를 뒤틀린 세계에게 희생되게 내버려둘수는 없어. 지금은 평화를 되돌리자.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>좋아, 이제 세계의 왜곡을 고치러 가봐. 할수 있는거 알아. 내가 도와줄게.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>서로 나뉘어져있단건 어떤 의미로는 축복이기도 해. 지금은 좀 떨어져있자.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMES_ANY" Language="ko_KR">
+			
+			<Text>조금 실례될수도 있지만 이해해줘. 우리 군대가 적을 무찌를수 있게 길을 빌려줘서, 이 세계를 구해줘!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GUIDE_FAIRY_MANY_ALLIANCES" Language="ko_KR">
+			<Text>아메스는 당신이 맺은 동맹을 좋아합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GUIDE_FAIRY_FEW_ALLIANCES" Language="ko_KR">
+			<Text>아메스는 당신에게 동맹이 적어 불만스러워합니다.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GUIDE_FAIRY_NAME" Language="ko_KR">
+			<Text>요정 인도자</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GUIDE_FAIRY_DESCRIPTION" Language="ko_KR">
+			<Text>동맹이 많은 이를 좋아합니다. 그렇지 않은 상대를 싫어합니다.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMES_CHAPTER_HISTORY_PARA_9" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMES_RIFARE_PIUMA_NAME" Language="ko_KR">
+			<Text>리파레피우마</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMES_RIFARE_PIUMA_DESCRIPTION" Language="ko_KR">
+			<Text>전투에서 처치되면, 수도에 같은 종류의 유닛을 하나 생성합니다.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENTER_DREAM_WORLD_NAME" Language="ko_KR">
+			<Text>꿈의 세계 진입</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENTER_DREAM_WORLD_SHORT_NAME" Language="ko_KR">
+			<Text>꿈 진입</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENTER_DREAM_WORLD_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_GreatWork_Portrait] 길드 멤버중에 [ICON_GreatArtist] 메모리 피스 걸작을 만들어낼수 있는 멤버가 남아있다면, 이 프로젝트가 완료되었을때 하나를 얻습니다. 이미 모든 [ICON_GreatArtist] 길드 멤버의 메모리 피스가 획득되었다면, 대신 300만큼의 [ICON_Faith] 신앙을 얻습니다. 한 게임에는 최대 24명의 [ICON_GreatArtist] 길드 멤버가 있습니다.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WORK_OBJECT_MEMORY_PIECE_NAME" Language="ko_KR">
+			<Text>메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORKOBJECT_MEMORY_PIECE" Language="ko_KR">
+			<Text>[ICON_GreatWork_Portrait] 메모리 피스</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANDSOL_KOKKORO_AMES_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_GREATWORKOBJECT_MEMORY_PIECE_PLURAL" Language="ko_KR">
+			<Text>[ICON_GreatWork_Portrait] 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_GUILD_MEMBER_NAME" Language="ko_KR">
+			<Text>길드 멤버</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GUILD_MEMBER_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_PECORINE_NAME" Language="ko_KR">
+			<Text>페코린느</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PECORINE_NAME" Language="ko_KR">
+			<Text>페코린느의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_KOKKORO_NAME" Language="ko_KR">
+			<Text>콧코로</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KOKKORO_NAME" Language="ko_KR">
+			<Text>콧코로의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_KYARU_NAME" Language="ko_KR">
+			<Text>캬루</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KYARU_NAME" Language="ko_KR">
+			<Text>캬루의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_HIYORI_NAME" Language="ko_KR">
+			<Text>히요리</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HIYORI_NAME" Language="ko_KR">
+			<Text>히요리의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_REI_NAME" Language="ko_KR">
+			<Text>레이</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REI_NAME" Language="ko_KR">
+			<Text>레이의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_YUI_NAME" Language="ko_KR">
+			<Text>유이</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YUI_NAME" Language="ko_KR">
+			<Text>유이의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_KYOUKA_NAME" Language="ko_KR">
+			<Text>쿄우카</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KYOUKA_NAME" Language="ko_KR">
+			<Text>쿄우카의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_MIMI_NAME" Language="ko_KR">
+			<Text>미미</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MIMI_NAME" Language="ko_KR">
+			<Text>미미의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_MISOGI_NAME" Language="ko_KR">
+			<Text>미소기</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MISOGI_NAME" Language="ko_KR">
+			<Text>미소기의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_CHIKA_NAME" Language="ko_KR">
+			<Text>치카</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHIKA_NAME" Language="ko_KR">
+			<Text>치카의 미모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_NOZOMI_NAME" Language="ko_KR">
+			<Text>노조미</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_NOZOMI_NAME" Language="ko_KR">
+			<Text>노조미의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_TSUMUGI_NAME" Language="ko_KR">
+			<Text>츠무기</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TSUMUGI_NAME" Language="ko_KR">
+			<Text>츠무기의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_LABYRISTA_NAME" Language="ko_KR">
+			<Text>라비리스타</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LABYRISTA_NAME" Language="ko_KR">
+			<Text>라비리스타의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_RINO_NAME" Language="ko_KR">
+			<Text>리노</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RINO_NAME" Language="ko_KR">
+			<Text>리노의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_SHIZURU_NAME" Language="ko_KR">
+			<Text>시즈루</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHIZURU_NAME" Language="ko_KR">
+			<Text>시즈루의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_IRIYA_NAME" Language="ko_KR">
+			<Text>이리야</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_IRIYA_NAME" Language="ko_KR">
+			<Text>이리야의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_SHINOBU_NAME" Language="ko_KR">
+			<Text>시노부</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHINOBU_NAME" Language="ko_KR">
+			<Text>시노부의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_MIYAKO_NAME" Language="ko_KR">
+			<Text>미야코</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MIYAKO_NAME" Language="ko_KR">
+			<Text>미야코의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_MISATO_NAME" Language="ko_KR">
+			<Text>미사토</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MISATO_NAME" Language="ko_KR">
+			<Text>미사토의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_HATSUNE_NAME" Language="ko_KR">
+			<Text>하츠네</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HATSUNE_NAME" Language="ko_KR">
+			<Text>하츠네의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_AOI_NAME" Language="ko_KR">
+			<Text>아오이</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AOI_NAME" Language="ko_KR">
+			<Text>아오이의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_MAHO_NAME" Language="ko_KR">
+			<Text>마호</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MAHO_NAME" Language="ko_KR">
+			<Text>마호의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_MAKOTO_NAME" Language="ko_KR">
+			<Text>마코토</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MAKOTO_NAME" Language="ko_KR">
+			<Text>마코토의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUILD_MEMBER_KAORI_NAME" Language="ko_KR">
+			<Text>카오리</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAORI_NAME" Language="ko_KR">
+			<Text>카오리의 메모리 피스</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GUILD_MEMBER_NAME" Language="ko_KR">
+			<Text>길드 멤버</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GUILD_MEMBER_DESCRIPTION" Language="ko_KR">
+			<Text>활성화되면 각 [ICON_GreatArtist] 길드 멤버는 [ICON_GreatWork_Portrait] 메모리 피스를 만들어냅니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_PROMOTION_CLASS_LANDSOL_KOKKORO_AMES_NAME" Language="ko_KR">
+			<Text>{LOC_UNIT_LANDSOL_KOKKORO_AMES_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_PROMOTION_AMES_ACCELERATION_NAME" Language="ko_KR">
+			<Text>스피드 업</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_ACCELERATION_DESCRIPTION" Language="ko_KR">
+			<Text>절벽을 오르내릴수 있습니다. 콧코로 인근 2타일 안의 유닛들은 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_ACCELERATION_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_ACCELERATION_DESCRIPTION" Language="ko_KR">
+			<Text>+1 [ICON_Movement] 이동력.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_ACCELERATION_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_PROMOTION_AMES_WALL_OF_SPIRITS_NAME" Language="ko_KR">
+			<Text>스피릿 월</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_WALL_OF_SPIRITS_DESCRIPTION" Language="ko_KR">
+			<Text>콧코로 인근 2타일 이내의 유닛들은 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_WALL_OF_SPIRITS_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_WALL_OF_SPIRITS_DESCRIPTION" Language="ko_KR">
+			<Text>방어시 +7 [ICON_Strength] 전투력.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_WALL_OF_SPIRITS_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_PROMOTION_AMES_BLAZINGLY_BRIGHT_NAME" Language="ko_KR">
+			<Text>브라이트 어텐션</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_BLAZINGLY_BRIGHT_DESCRIPTION" Language="ko_KR">
+			<Text>이 유닛이 도시를 점령하거나, 도시를 점령했을때 그와 인접해 있었다면, 그 도시는 플레이어의 대중 종교로 개종됩니다. 콧코로 인근 2타일 이내의 유닛들은 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_BLAZINGLY_BRIGHT_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_BLAZINGLY_BRIGHT_DESCRIPTION" Language="ko_KR">
+			<Text>문명이나 도시국가 소속 유닛을 처치할 때마다 주변에 대중 종교를 퍼트립니다. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_BLAZINGLY_BRIGHT_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_PROMOTION_AMES_SPIRITS_INSPIRATION_NAME" Language="ko_KR">
+			<Text>정령의 계시</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_SPIRITS_INSPIRATION_DESCRIPTION" Language="ko_KR">
+			<Text>2타일 이내의 유닛들이 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_SPIRITS_INSPIRATION_DESCRIPTION} 콧코로가 전투에서 승리하면 이 효과는 2배가 됩니다.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_SPIRITS_INSPIRATION_DESCRIPTION" Language="ko_KR">
+			<Text>전투에서 승리하면 파괴된 유닛의 [ICON_Strength] 전투력의 50%만큼 [ICON_Culture] 문화를 얻습니다.（보통 속도 기준）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_SPIRITS_INSPIRATION_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_PROMOTION_AMES_SPRING_GALE_NAME" Language="ko_KR">
+			<Text>춘질풍</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_SPRING_GALE_DESCRIPTION" Language="ko_KR">
+			<Text>지상 유닛을 상대할때 +10 [ICON_Strength] 전투력. 콧코로 인근 2타일 이내의 유닛들은 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_SPRING_GALE_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_SPRING_GALE_DESCRIPTION" Language="ko_KR">
+			<Text>통제 구역을 무시합니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_SPRING_GALE_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_PROMOTION_AMES_TRIPLE_SLASH_NAME" Language="ko_KR">
+			<Text>트라이 슬래쉬</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_TRIPLE_SLASH_DESCRIPTION" Language="ko_KR">
+			<Text> [ICON_Movement] 이동력이 허용하는 한 매 턴 +1회 공격 가능.  콧코로 인근 2타일 이내의 유닛들은 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_TRIPLE_SLASH_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_TRIPLE_SLASH_DESCRIPTION" Language="ko_KR">
+			<Text>공격 후 이동 가능.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_TRIPLE_SLASH_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="LOC_PROMOTION_AMES_AURORA_SANCTUARY_NAME" Language="ko_KR">
+			<Text>오로라 생츄어리</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMES_AURORA_SANCTUARY_DESCRIPTION" Language="ko_KR">
+			<Text>모든 상황에서 +10 [ICON_Strength] 전투력. 콧코로 인근 2타일 이내의 유닛들은 {LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_AURORA_SANCTUARY_AMES_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LANDSOL_KOKKORO_AMES_RECEIVE_AURORA_SANCTUARY_AMES_DESCRIPTION" Language="ko_KR">
+			<Text>+10회복량. 매 턴 종료시 체력 회복.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AMES_AURORA_SANCTUARY_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_MAHO_RECON_FOREIGN_CONTINENT_STRENGTH_DESCRIPTION" Language="ko_KR">
+			<Text>수도가 없는 대륙에서 +7 [ICON_Strength] 전투력.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAHO_FOREIGN_CONTINENT_MOVEMENT_DESCRIPTION" Language="ko_KR">
+			<Text>수도가 없는 대륙에서 +1 [ICON_Movement] 이동력. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SELF_DEFENSE_GROUP_STRENGTH_DESCRIPTION" Language="ko_KR">
+			<Text>자경단 길드하우스에서 +5 [ICON_Strength] 전투력, 이 효과는 자국 내 또는 자국에 인접한 타일에서 2배가 됩니다.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SELF_DEFENSE_GROUP_XP_DESCRIPTION" Language="ko_KR">
+			<Text>자경단 길드하우스에서 +50% 경험치 획득.</Text>
+		</Row>
+		<Row Tag="LOC_SELF_DEFENSE_GROUP_STRENGTH_DESCRIPTION" Language="ko_KR">
+			<Text>자경단 길드하우스에서 +5 [ICON_Strength] 전투력</Text>
+		</Row>
+		<Row Tag="LOC_SELF_DEFENSE_GROUP_LOCAL_STRENGTH_DESCRIPTION" Language="ko_KR">
+			<Text>자국 내 또는 자국에 인접한 타일이라 +5 [ICON_Strength] 전투력</Text>
+		</Row>
+		<Row Tag="LOC_MAHO_RECON_FOREIGN_CONTINENT_STRENGTH_DESCRIPTION" Language="ko_KR">
+			<Text>수도와 다른 대륙이라 +7 [ICON_Strength] 전투력</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_PRINCESS_EXPLORER_NAME" Language="ko_KR">
+			<Text>탐험가 공주</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PRINCESS_EXPLORER_DESCRIPTION" Language="ko_KR">
+			<Text>지도를 밝히고 싶어합니다. 고향과 같은 대륙에 있는 문명을 좋아하고, 자신의 도시가 없는 대륙의 문명을 싫어합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_PRINCESS_EXPLORER_HOME_CONTINENT" Language="ko_KR">
+			<Text>마호는 당신과 같은 대륙 사람임을 기뻐합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_PRINCESS_EXPLORER_NEW_CONTINENT" Language="ko_KR">
+			<Text>마호는 당신의 대륙에도 진출하고 싶어합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_HIMEMIYA_MAHO_EXPLORER_QUOTE" Language="ko_KR">
+			<Text>안심하시어요, 동화나라에서는 지혜로 위기를 헤쳐나가는 법이옵니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			<Text>이번 여행이 끝나면, 마호마호왕국의 모두들과 이 모험에 대해 이야기하고 싶어요.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			<Text>풀꽃의 향기, 형형색색의 동물들, 촉촉한 흙길과 함정이 기다리고 있사옵니다... 기대되네요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>비록 소녀가 덤벙거릴지언정, 그대를 도울수 있길 바라옵니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>믿을수 없네요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>앞으로 사이좋게 지내면 좋겠네요... 모두가 행복하게 살수 있는 세상이 동화속 이야기처럼 들리지만, 그런 세상이 사람들에게는 필요한것이옵니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>후후, 동화속 이야기 같사옵니다. 함께 우정을 가꿔나가지요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>어찌... 어찌 그리 무자비하실수 있는지...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>어떻게 이런 일이... 어쩌다가 이런 일이 일어났을까요...</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>우리의 땅에서 그런 짓을 하고다니도록 내버려둘수 없사옵니다. 할수 있는만큼 저항하도록 하지요. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>마호마호 왕국의 공주로서 환대하지요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>어으, 불청객이시군요... 아뇨.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>우리 사절단이 그대와 만나 우아한 다과회를 가지는것이 어떻사옵니까?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>진정 전쟁을 하시려는지요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>대체 무슨 생각이십니까? (공개 비난)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>어인 일이신지요... 음, 좀 낡은 표현이지만 공주로서 전통을 어길수는 없는 것이옵니다. </Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>서로를 더 잘 알아가는건 어떻사옵니까? 가까이 있는 도시로 오시지요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>착착 가볼까요!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>국제 교류의 일환으로 수도애 대한 정보를 교환하시지요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>함께 동맹을 맺으시겠습니까?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>허가 없이 타국의 국경을 배회하는것은 무례하지 않나이까. 그대의 마음대로 할수는 없을것이옵니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>이런... 져버렸사와요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>감사 인사는 필요 없사옵니다</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>심술궂으셔라.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>만나서 반갑사옵니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>서로에게 한 일을 잊고 다시 단결하시여요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>전쟁은 끝을 내야하옵니다. 다시 이러한 일이 일어나지 않도록 근본부터 말이여요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>과거의 일을 없던것으로 할순 없지요. 하지만 우리에겐 전쟁을 평화로 이끌어야할 의무가 있사옵니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>가능한 만큼 도와드리겠사와요. 필요하면 말해주시여요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>걱정이 스며드나이다, 죄송하지만 길을 열어드릴순 없겠사와요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="ko_KR">
+			
+			<Text>공주로서 적들을 내버려둘수는 없지요. 위대한 왕이시여, 부디 길을 열어주시길.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+			<Text>프린세스 나이트의 도움을 받아, 랜드솔의 리더는 강력한 추가 효과를 제공하는 특별한 유니온 버스트 를 해금할수 있습니다. 탐험가 마호와 함께 세계를 탐험하고 도시를 넓혀보세요.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_DETAILED_BODY" Language="ko_KR">
+			<Text>탐험가 마호는 가능한 한 열심히 지도를 밝히려 합니다. 새로운 대륙의 도시를 처음 건설할 때마다, 개척자와 정찰유닛을 하나 받습니다. 이 도시들에 마호마호 캠프를 건설해 [ICON_Culture] 문화와 [ICON_Gold] 금을 얻을수 있습니다. 이 풍요로운 도시들은 어떤 승리에도 도움이 될 것입니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMEMIYA_MAHO_EXPLORER_CHAPTER_HISTORY_PARA_9" Language="ko_KR">
+			<Text></Text>
+		</Row>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_TITLE" Language="ko_KR">
+			<Text>쿄우카(키즈모델)</Text>
+		</Replace>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_QUOTE" Language="ko_KR">
+			<Text>혼자서 모든걸 해결할수는 없지만... 그래도 모두를 돕고싶어요.</Text>
+		</Row>
+		
+		<Row Tag="LOC_ABILITY_AQUA_FLOCK_NAME" Language="ko_KR">
+			<Text>서머 아쿠아 플록</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AQUA_FLOCK_DESCRIPTION" Language="ko_KR">
+			<Text>원거리 공격의 대상이 되는 유닛에게 -7 [ICON_Strength] 전투력.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AQUA_FLOCK_DEBUFF_NAME" Language="ko_KR">
+			<Text>서머 아쿠아 플록</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AQUA_FLOCK_DEBUFF_DESCRIPTION" Language="ko_KR">
+			<Text>서머 아쿠아 플록 특성에서 -7 [ICON_Strength] 전투력.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>감사합니다, 여름캠프에서 많은걸 얻어가고싶어요.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>이 바다에서 누구보다 재미있게 놀고있네요. 어른인데 부끄럽지도 않아요?</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_CAPSULE_BODY" Language="ko_KR">
+			<Text>프린세스 나이트의 도움을 받아, 랜드솔의 리더는 강력한 추가 효과를 제공하는 특별한 '유니온 버스트'를 해금할수 있습니다. 쿄우카(여름)은 해변 근처에 도시를 짓고 추가적인 생산을 얻을수 있습니다.</Text>
+		</Row>
+		<Row Tag=" LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_DETAILED_BODY" Language="ko_KR">
+			<Text>쿄우카(여름)은 해변도시에 집중합니다. 해변 근처에서 시설이 건설될 때마다 추가 [ICON_Science] 과학, [ICON_Production] 생산력, [ICON_Culture] 문화를 얻습니다. 이 추가 산출량은 특수지구와 건물이 지어지면 증가할수 있습니다. 길드하우스를 건설하면, 길드에서 특별한 보너스를 얻을수 있습니다. 쿄우카(여름)은 과학 승리에 특화되어있지만 높은 [ICON_Production] 생산력덕분에 다른 승리도 노릴수 있습니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_AGENDA_KYOUKA_SUMMER_CAMPING_NAME" Language="ko_KR">
+			<Text>여름캠프</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KYOUKA_SUMMER_CAMPING_DESCRIPTION" Language="ko_KR">
+			<Text>해변도시를 세우고 싶어합니다. 같은 대륙의 국가들을 좋아합니다. 다른 대륙의 도시를 싫어합니다.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KYOUKA_SUMMER_CAMPING_DESCRIPTION_XP2" Language="ko_KR">
+			<Text>해변도시를 세우고 싶어합니다. 내륙지방에 있는 국가들을 좋아합니다. 해변도시가 많은 국가를 싫어합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_KYOUKA_SUMMER_CAMPING_HOME_CONTINENT" Language="ko_KR">
+			<Text>쿄우카는 같은 대륙의 동료를 기꺼워합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_KYOUKA_SUMMER_CAMPING_NEW_CONTINENT" Language="ko_KR">
+			<Text>쿄우카는 당신의 대륙에 호기심을 품습니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KYOUKA_SUMMER_CAMPING_LOW_COASTAL_CITES" Language="ko_KR">
+			<Text>쿄우카는 당신이 내륙에 머무르는것을 기뻐합니다.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES" Language="ko_KR">
+			<Text>쿄우카는 당신을 바다의 경쟁자로 여깁니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_1}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_2}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_3}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_4}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_5}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_6}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_7}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_SUMMER_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+			<Text>{LOC_PEDIA_LEADERS_PAGE_LEADER_HIKAWA_KYOUKA_CHAPTER_HISTORY_PARA_8}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_GREETING_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HIKAWA_KYOUKA_SUMMER_ANY" Language="ko_KR">
+			<Text>{LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_HIKAWA_KYOUKA_ANY}</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
