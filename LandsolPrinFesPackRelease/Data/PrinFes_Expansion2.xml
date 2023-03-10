@@ -151,4 +151,9 @@
 			<Value>LOC_DIPLO_MODIFIER_KYOUKA_SUMMER_CAMPING_HIGH_COASTAL_CITIES</Value>
 		</Row>
 	</ModifierArguments>
+
+	<AiLists>
+		<Row ListType="IronConfederacyResolutions" AgendaType="TRAIT_AGENDA_GUIDE_FAIRY" System="Resolutions"/>
+		<Row ListType="ExplorerResolutions" AgendaType="TRAIT_AGENDA_PRINCESS_EXPLORER" System="Resolutions"/>
+	</AiLists>
 </GameData>
