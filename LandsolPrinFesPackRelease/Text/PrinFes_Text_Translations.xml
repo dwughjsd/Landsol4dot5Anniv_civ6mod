@@ -541,7 +541,7 @@
 
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="zh_Hans_CN">
 			<!--同意声明友谊 - 真步 第5话-->
-			<Text>虽然，人家很笨拙，老是搞砸。我希望可以帮上你的忙。</Text>
+			<Text>虽然，人家很笨拙，老是搞砸，但希望可以帮上你的忙。</Text>
 		</Row>
 
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIMEMIYA_MAHO_EXPLORER_ANY" Language="zh_Hans_CN">
