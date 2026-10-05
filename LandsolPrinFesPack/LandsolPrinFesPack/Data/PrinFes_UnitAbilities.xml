@@ -293,6 +293,7 @@
 		<Row UnitAbilityType="ABILITY_MAHO_FOREIGN_CONTINENT_MOVEMENT" Name="LOC_ABILITY_MAHO_FOREIGN_CONTINENT_MOVEMENT_NAME" Description="LOC_ABILITY_MAHO_FOREIGN_CONTINENT_MOVEMENT_DESCRIPTION" Inactive="true"/>
 		<Row UnitAbilityType="ABILITY_SELF_DEFENSE_GROUP_STRENGTH" Name="LOC_ABILITY_SELF_DEFENSE_GROUP_STRENGTH_NAME" Description="LOC_ABILITY_SELF_DEFENSE_GROUP_STRENGTH_DESCRIPTION" Inactive="true"/>
 		<Row UnitAbilityType="ABILITY_SELF_DEFENSE_GROUP_XP" Name="LOC_ABILITY_SELF_DEFENSE_GROUP_XP_NAME" Description="LOC_ABILITY_SELF_DEFENSE_GROUP_XP_DESCRIPTION" Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_MAHO_RECON_XP" Name="LOC_ABILITY_MAHO_RECON_XP_NAME" Description="LOC_ABILITY_MAHO_RECON_XP_DESCRIPTION" Inactive="true"/>
 	</UnitAbilities>
 
 	<UnitAbilityModifiers>
@@ -315,6 +316,10 @@
 		<Row>
 			<UnitAbilityType>ABILITY_SELF_DEFENSE_GROUP_XP</UnitAbilityType>
 			<ModifierId>MODIFIER_ABILITY_SELF_DEFENSE_GROUP_XP</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MAHO_RECON_XP</UnitAbilityType>
+			<ModifierId>MODIFIER_ABILITY_MAHO_RECON_XP</ModifierId>
 		</Row>
 	</UnitAbilityModifiers>
 	<Modifiers>
@@ -340,6 +345,12 @@
 		<Row>
 			<ModifierId>MODIFIER_ABILITY_SELF_DEFENSE_GROUP_XP</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_UNIT_EXPERIENCE_MODIFIER</ModifierType>
+			<Permanent>true</Permanent>
+		</Row>
+		<Row>
+			<ModifierId>MODIFIER_ABILITY_MAHO_RECON_XP</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_UNIT_EXPERIENCE_MODIFIER</ModifierType>
+			<Permanent>true</Permanent>
 		</Row>
 	</Modifiers>
 	<ModifierArguments>
@@ -365,6 +376,11 @@
 		</Row>
 		<Row>
 			<ModifierId>MODIFIER_ABILITY_SELF_DEFENSE_GROUP_XP</ModifierId>
+			<Name>Amount</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MODIFIER_ABILITY_MAHO_RECON_XP</ModifierId>
 			<Name>Amount</Name>
 			<Value>50</Value>
 		</Row>

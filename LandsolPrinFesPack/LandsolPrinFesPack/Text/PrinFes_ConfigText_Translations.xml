@@ -66,7 +66,7 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>生产侦查单位时 +50% [ICON_Production] 生产力。侦查单位在非首都所在大陆 +7 [ICON_Strength] 战斗力。可在市中心中建造真步真步营地。</Text>
+			<Text>生产侦查单位时 +50% [ICON_Production] 生产力。侦查单位获得的经验值+50%。侦查单位在非首都所在大陆 +7 [ICON_Strength] 战斗力。可在市中心中建造真步真步营地。</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME" Language="zh_Hans_CN">
@@ -86,7 +86,7 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>真步（探险家）特色建筑。使此城每回合的忠诚度 +1。如城市忠诚度已达最高，则额外 +1 [ICON_Culture] 文化值。若建设在与原始 [ICON_Capital] 首都不在同一大陆的城市中，此城每回合的忠诚度额外 +1，并 +2 [ICON_Gold] 金币。本城市已改良的 [ICON_RESOURCE_COTTON] 棉花和 [ICON_RESOURCE_DYES] 染料 +1 [ICON_Culture] 文化值。</Text>
+			<Text>真步（探险家）特色建筑。使此城每回合的忠诚度 +1。如城市忠诚度已达最高，则额外 +1 [ICON_Culture] 文化值。若建设在与原始 [ICON_Capital] 首都不在同一大陆的城市中，此城每回合的忠诚度额外 +1，并 +2 [ICON_Gold] 金币。本城市已改良的 [ICON_RESOURCE_SHEEP] 羊、 [ICON_RESOURCE_COTTON] 棉花和 [ICON_RESOURCE_DYES] 染料 +1 [ICON_Culture] 文化值。</Text>
 		</Row>
 
 		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="zh_Hans_CN">

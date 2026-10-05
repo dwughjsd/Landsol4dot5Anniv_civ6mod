@@ -482,6 +482,9 @@
 		<Row Tag="LOC_MAHO_RECON_FOREIGN_CONTINENT_STRENGTH_DESCRIPTION" Language="en_US">
 			<Text>+7 [ICON_Strength] Combat Strength on a continent other than your home continent</Text>
 		</Row>
+		<Row Tag="LOC_ABILITY_MAHO_RECON_XP_DESCRIPTION" Language="en_US">
+			<Text>+50% combat experience.</Text>
+		</Row>
 
 		<Row Tag="LOC_AGENDA_PRINCESS_EXPLORER_NAME" Language="en_US">
 			<Text>Princess Explorer</Text>

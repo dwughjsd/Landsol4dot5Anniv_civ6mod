@@ -515,6 +515,9 @@
 		<Row Tag="LOC_MAHO_RECON_FOREIGN_CONTINENT_STRENGTH_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>位于非首都所在大陆时 +7 [ICON_Strength] 战斗力</Text>
 		</Row>
+		<Row Tag="LOC_ABILITY_MAHO_RECON_XP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+50%战斗经验值。</Text>
+		</Row>
 
 		<Row Tag="LOC_AGENDA_PRINCESS_EXPLORER_NAME" Language="zh_Hans_CN">
 			<Text>公主探险家</Text>
@@ -1417,6 +1420,9 @@
 		</Row>
 		<Row Tag="LOC_MAHO_RECON_FOREIGN_CONTINENT_STRENGTH_DESCRIPTION" Language="ko_KR">
 			<Text>수도와 다른 대륙이라 +7 [ICON_Strength] 전투력</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAHO_RECON_XP_DESCRIPTION" Language="ko_KR">
+			<Text>+50% combat experience.</Text>
 		</Row>
 
 		<Row Tag="LOC_AGENDA_PRINCESS_EXPLORER_NAME" Language="ko_KR">

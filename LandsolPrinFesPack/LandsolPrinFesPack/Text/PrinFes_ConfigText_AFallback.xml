@@ -66,7 +66,7 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="en_US">
-			<Text>+50% [ICON_Production] Production toward recon units. +7 [ICON_Strength] Combat Strength on a continent other than your home continent to recon units. May construct the Maho Maho Camp in the City Center.</Text>
+			<Text>+50% [ICON_Production] Production toward recon units. +50% experience for recon units. +7 [ICON_Strength] Combat Strength on a continent other than your home continent to recon units. May construct the Maho Maho Camp in the City Center.</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME" Language="en_US">
@@ -86,7 +86,7 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_DESCRIPTION" Language="en_US">
-			<Text>A building unique to Maho (Explorer). Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1 [ICON_Culture] Culture. Additional +1 Loyalty per turn and +2 [ICON_Gold] Gold if built in a city not on your original [ICON_Capital] Capital's continent. Improved [ICON_RESOURCE_COTTON] Cotton and [ICON_RESOURCE_DYES] Dyes in this city gain +1 [ICON_Culture] Culture each.</Text>
+			<Text>A building unique to Maho (Explorer). Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1 [ICON_Culture] Culture. Additional +1 Loyalty per turn and +2 [ICON_Gold] Gold if built in a city not on your original [ICON_Capital] Capital's continent. Improved [ICON_RESOURCE_SHEEP] Sheep, [ICON_RESOURCE_COTTON] Cotton and [ICON_RESOURCE_DYES] Dyes in this city gain +1 [ICON_Culture] Culture each.</Text>
 		</Row>
 
 		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="en_US">
