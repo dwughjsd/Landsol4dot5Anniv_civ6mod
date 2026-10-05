@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
+		<Replace Tag="LOC_TRAIT_LEADER_AQUA_CREST_DESCRIPTION" Language="en_US">
+			<Text>Each improvement on or next to Coast or Lake tiles provides +1 extra yield which is randomly chosen from [ICON_Science] Science, [ICON_Production] Production and [ICON_Culture] Culture.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_AQUA_CREST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>相邻或位于海岸或湖泊的改良设施额外获得1点产出（从 [ICON_Science] 科技值、[ICON_Production] 生产力或 [ICON_Culture] 文化值中随机选择）。</Text>
+		</Replace>
+		<!--Translations replacement-->
 		<Replace Tag="LOC_UNIT_LANDSOL_KOKKORO_AMES_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>爱梅斯作为领袖时的兰德索尔特色反骑兵单位。仅能在创立宗教时免费获得一个。有3点 [ICON_Movement] 移动力。基础 [ICON_Strength] 战斗力等于城市曾生产之最强单位的战斗力。被击杀时将保留1点体力值，撤退至 [ICON_Capital] 首都。拥有独特的升级树。</Text>
 		</Replace>

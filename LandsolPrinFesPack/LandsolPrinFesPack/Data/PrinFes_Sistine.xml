@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-
+	<GlobalParameters>
+		<Replace Name="PRINFES_AQUA_CREST_MAX_YIELD" Value="1" />
+	</GlobalParameters>
 </GameData>

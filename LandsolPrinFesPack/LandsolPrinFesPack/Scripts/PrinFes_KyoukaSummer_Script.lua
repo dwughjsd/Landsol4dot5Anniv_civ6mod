@@ -11,11 +11,11 @@ local AQUA_CREST_CULTURE    :string = "PROPERTY_AQUA_CREST_CULTURE";
 local AQUA_CREST_PRODUCTION :string = "PROPERTY_AQUA_CREST_PRODUCTION";
 local AQUA_FLOCK_CITY_STACK :string = "PROPERTY_AQUA_FLOCK_STACK";
 
-local AQUA_CREST_MAX_YIELD		       = 2;						--# of Bonus Yield Points in Total to Place on one Tile
-local AQUA_FLOCK_STACK_PER_DISTRICT    = 3;						--# of Modifier Stacks per District
-local AQUA_FLOCK_STACK_PER_BUILDING    = 1;						--# of Modifier Stacks per Building
-local AQUA_FLOCK_STACK_PER_IMPROVEMENT = 1;						--# of Modifier Stacks per Improvement
-local AQUA_FLOCK_UNIT_DEBUFF_TURNS     = 3;						--# of Turns in Effect of Aqua Flock Unit Debuff (min = 1)
+local AQUA_CREST_MAX_YIELD		       = GameInfo.GlobalParameters["PRINFES_AQUA_CREST_MAX_YIELD"].Value or 2;					--# of Bonus Yield Points in Total to Place on one Tile
+local AQUA_FLOCK_STACK_PER_DISTRICT    = GameInfo.GlobalParameters["PRINFES_AQUA_FLOCK_STACK_PER_DISTRICT"].Value or 3;			--# of Modifier Stacks per District
+local AQUA_FLOCK_STACK_PER_BUILDING    = GameInfo.GlobalParameters["PRINFES_AQUA_FLOCK_STACK_PER_BUILDING"].Value or 1;			--# of Modifier Stacks per Building
+local AQUA_FLOCK_STACK_PER_IMPROVEMENT = GameInfo.GlobalParameters["PRINFES_AQUA_FLOCK_STACK_PER_IMPROVEMENT"].Value or 1;		--# of Modifier Stacks per Improvement
+local AQUA_FLOCK_UNIT_DEBUFF_TURNS     = GameInfo.GlobalParameters["PRINFES_AQUA_FLOCK_UNIT_DEBUFF_TURNS"].Value or 3;			--# of Turns in Effect of Aqua Flock Unit Debuff (min = 1)
 
 --[[ Section 1 : Aqua Crest Bonus Yield ]]
 --==============================================================================================================================

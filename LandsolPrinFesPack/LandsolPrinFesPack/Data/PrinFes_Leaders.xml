@@ -786,6 +786,15 @@
 	</ModifierArguments>
 
 	<!--Kyouka Summer-->
+
+	<GlobalParameters>
+		<Row Name="PRINFES_AQUA_CREST_MAX_YIELD" Value="2"/>
+		<Row Name="PRINFES_AQUA_FLOCK_STACK_PER_DISTRICT" Value="3"/>
+		<Row Name="PRINFES_AQUA_FLOCK_STACK_PER_BUILDING" Value="1"/>
+		<Row Name="PRINFES_AQUA_FLOCK_STACK_PER_IMPROVEMENT" Value="1"/>
+		<Row Name="PRINFES_AQUA_FLOCK_UNIT_DEBUFF_TURNS" Value="3"/>
+	</GlobalParameters>
+	
 	<Types>
 		<Row Type="LEADER_HIKAWA_KYOUKA_SUMMER" Kind="KIND_LEADER"/>
 		<Row Type="TRAIT_LEADER_AQUA_CREST" Kind="KIND_TRAIT"/>
