@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Tag="LOC_TRAIT_LEADER_AMES_NAME" Language="zh_Hans_CN">
-			<Text>重塑之羽</Text>
+			<Text>重始白羽</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_AMES_DESCRIPTION" Language="zh_Hans_CN">
@@ -10,7 +10,7 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_NAME" Language="zh_Hans_CN">
-			<Text>繁花之幸</Text>
+			<Text>繁花祝福</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_SHARED" Language="zh_Hans_CN">
@@ -62,7 +62,7 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_NAME" Language="zh_Hans_CN">
-			<Text>真步真步冒险团</Text>
+			<Text>真步真步毛绒支援</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="zh_Hans_CN">
@@ -90,7 +90,7 @@
 		</Row>
 
 		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="zh_Hans_CN">
-			<Text>[NEWLINE][NEWLINE]公会之家加成：本城市训练的单位获得 +50% 战斗经验值和 +5 [ICON_Strength] 战斗力，位于或靠近领土作战时额外 +5 [ICON_Strength] 战斗力。此城市拥有驻军单位时 +2 [ICON_Amenities] 宜居度。</Text>
+			<Text>[NEWLINE][NEWLINE]公会之家加成：本城市训练的单位获得 +50% 战斗经验值和 +5 [ICON_Strength] 战斗力，位于或靠近领土作战时额外 +5 [ICON_Strength] 战斗力。此城市有驻军单位时 +2 [ICON_Amenities] 宜居度。</Text>
 		</Row>
 
 		<Row Tag="LOC_LOADING_INFO_LEADER_HIMEMIYA_MAHO_EXPLORER" Language="zh_Hans_CN">
@@ -105,13 +105,13 @@
 			<Text>镜华（夏日戏水）</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_AQUA_CREST_NAME" Language="zh_Hans_CN">
-			<Text>水跃浪峰</Text>
+			<Text>水浪顶尖</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_AQUA_CREST_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>相邻或位于海岸或湖泊的改良设施产出随机数额的额外 [ICON_Science] 科技值、[ICON_Production] 生产力或 [ICON_Culture] 文化值，总计 2 点。</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_NAME" Language="zh_Hans_CN">
-			<Text>夏日水弹群</Text>
+			<Text>夏日水弹风暴</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>每个相邻或位于海岸或湖泊的建筑和改良设施为所在城市 +3% [ICON_Science] 科技值、[ICON_Production] 生产力和 [ICON_Culture] 文化值，每个相邻或位于海岸或湖泊的区域则 +9%，每座城市上限 30%。远程单位的攻击使目标单位在3回合内 -7 [ICON_Strength] 战斗力。{LOC_TRAIT_LITTLE_LYRICAL_BONUS}</Text>
