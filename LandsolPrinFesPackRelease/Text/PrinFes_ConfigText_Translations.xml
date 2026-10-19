@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Tag="LOC_TRAIT_LEADER_AMES_NAME" Language="zh_Hans_CN">
-			<Text>重塑之羽</Text>
+			<Text>重始白羽</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_AMES_DESCRIPTION" Language="zh_Hans_CN">
@@ -10,7 +10,7 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_NAME" Language="zh_Hans_CN">
-			<Text>繁花之幸</Text>
+			<Text>繁花祝福</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FIORE_FELICITA_DESCRIPTION_SHARED" Language="zh_Hans_CN">
@@ -62,11 +62,11 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_NAME" Language="zh_Hans_CN">
-			<Text>真步真步冒险团</Text>
+			<Text>真步真步毛绒支援</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>生产侦查单位时 +50% [ICON_Production] 生产力。侦查单位在非首都所在大陆 +7 [ICON_Strength] 战斗力。可在市中心中建造真步真步营地。</Text>
+			<Text>生产侦查单位时 +50% [ICON_Production] 生产力。侦查单位获得的经验值+50%。侦查单位在非首都所在大陆 +7 [ICON_Strength] 战斗力。可在市中心中建造真步真步营地。</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME" Language="zh_Hans_CN">
@@ -86,11 +86,11 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>真步（探险家）特色建筑。使此城每回合的忠诚度 +1。如城市忠诚度已达最高，则额外 +1 [ICON_Culture] 文化值。若建设在与原始 [ICON_Capital] 首都不在同一大陆的城市中，此城每回合的忠诚度额外 +1，并 +2 [ICON_Gold] 金币。本城市已改良的 [ICON_RESOURCE_COTTON] 棉花和 [ICON_RESOURCE_DYES] 染料 +1 [ICON_Culture] 文化值。</Text>
+			<Text>真步（探险家）特色建筑。使此城每回合的忠诚度 +1。如城市忠诚度已达最高，则额外 +1 [ICON_Culture] 文化值。若建设在与原始 [ICON_Capital] 首都不在同一大陆的城市中，此城每回合的忠诚度额外 +1，并 +2 [ICON_Gold] 金币。本城市已改良的 [ICON_RESOURCE_SHEEP] 羊、 [ICON_RESOURCE_COTTON] 棉花和 [ICON_RESOURCE_DYES] 染料 +1 [ICON_Culture] 文化值。</Text>
 		</Row>
 
 		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="zh_Hans_CN">
-			<Text>[NEWLINE][NEWLINE]公会之家加成：本城市训练的单位获得 +50% 战斗经验值和 +5 [ICON_Strength] 战斗力，位于或靠近领土作战时额外 +5 [ICON_Strength] 战斗力。此城市拥有驻军单位时 +2 [ICON_Amenities] 宜居度。</Text>
+			<Text>[NEWLINE][NEWLINE]公会之家加成：本城市训练的单位获得 +50% 战斗经验值和 +5 [ICON_Strength] 战斗力，位于或靠近领土作战时额外 +5 [ICON_Strength] 战斗力。此城市有驻军单位时 +2 [ICON_Amenities] 宜居度。</Text>
 		</Row>
 
 		<Row Tag="LOC_LOADING_INFO_LEADER_HIMEMIYA_MAHO_EXPLORER" Language="zh_Hans_CN">
@@ -105,13 +105,13 @@
 			<Text>镜华（夏日戏水）</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_AQUA_CREST_NAME" Language="zh_Hans_CN">
-			<Text>水跃浪峰</Text>
+			<Text>水浪顶尖</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_AQUA_CREST_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>相邻或位于海岸或湖泊的改良设施产出随机数额的额外 [ICON_Science] 科技值、[ICON_Production] 生产力或 [ICON_Culture] 文化值，总计 2 点。</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_NAME" Language="zh_Hans_CN">
-			<Text>夏日水弹群</Text>
+			<Text>夏日水弹风暴</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>每个相邻或位于海岸或湖泊的建筑和改良设施为所在城市 +3% [ICON_Science] 科技值、[ICON_Production] 生产力和 [ICON_Culture] 文化值，每个相邻或位于海岸或湖泊的区域则 +9%，每座城市上限 30%。远程单位的攻击使目标单位在3回合内 -7 [ICON_Strength] 战斗力。{LOC_TRAIT_LITTLE_LYRICAL_BONUS}</Text>
@@ -184,11 +184,11 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_NAME" Language="ko_KR">
-			<Text>마호마호모험단</Text>
+			<Text>Maho Maho Fluffy Support</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="ko_KR">
-			<Text>유닛 생산시 +50% [ICON_Production] 생산력. 다른 대륙에서 +7 [ICON_Strength] 전투력. 도심부에 마호마호캠프 건설 가능. </Text>
+			<Text>유닛 생산시 +50% [ICON_Production] 생산력. +50% experience for recon units. 다른 대륙에서 +7 [ICON_Strength] 전투력. 도심부에 마호마호캠프 건설 가능. </Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME" Language="ko_KR">
@@ -208,7 +208,7 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_DESCRIPTION" Language="ko_KR">
-			<Text>마호(탐험가)특유의 건물. 이 도시에 턴당 충성심 +1. 이 도시가 이미 최대 충성도를 가지고 있다면, 대신 +1  [ICON_Culture] 문화. 수도와 다른 대륙에 있다면 추가로 +1 충성심과 +2 [ICON_Gold] 금.이 도시의 개발된 [ICON_RESOURCE_COTTON] 목화와 [ICON_RESOURCE_DYES] 염료에서 +1 [ICON_Culture] 문화.</Text>
+			<Text>마호(탐험가)특유의 건물. 이 도시에 턴당 충성심 +1. 이 도시가 이미 최대 충성도를 가지고 있다면, 대신 +1  [ICON_Culture] 문화. 수도와 다른 대륙에 있다면 추가로 +1 충성심과 +2 [ICON_Gold] 금.이 도시의 개발된 [ICON_RESOURCE_SHEEP] Sheep, [ICON_RESOURCE_COTTON] 목화와 [ICON_RESOURCE_DYES] 염료에서 +1 [ICON_Culture] 문화.</Text>
 		</Row>
 
 		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="ko_KR">

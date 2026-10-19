@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION" Language="en_US">
+			<Text>Each building or improvement on or next to Coast or Lake tiles provides +3% [ICON_Science] Science, [ICON_Production] Production and [ICON_Culture] Culture to the city it is in, up to a total of +30% per city. Ranged attacks of ranged units deal -7 [ICON_Strength] Combat Strength to the target unit.{LOC_TRAIT_LITTLE_LYRICAL_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION" Language="ko_KR">
+			<Text>Each building or improvement on or next to Coast or Lake tiles provides +3% [ICON_Science] Science, [ICON_Production] Production and [ICON_Culture] Culture to the city it is in, up to a total of +30% per city. Ranged attacks of ranged units deal -7 [ICON_Strength] Combat Strength to the target unit.{LOC_TRAIT_LITTLE_LYRICAL_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SUMMER_AQUA_FLOCK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>每个相邻或位于海岸或湖泊的建筑和改良设施为所在城市 +3% [ICON_Science] 科技值、[ICON_Production] 生产力和 [ICON_Culture] 文化值，每座城市上限 30%。远程单位的攻击使目标单位在3回合内 -7 [ICON_Strength] 战斗力。{LOC_TRAIT_LITTLE_LYRICAL_BONUS}</Text>
+		</Replace>
+		<!--Translations replacement-->
+		<Replace Tag="LOC_UNIT_LANDSOL_KOKKORO_AMES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>爱梅斯作为领袖时的兰德索尔特色反骑兵单位。仅能在创立宗教时免费获得一个。有3点 [ICON_Movement] 移动力。基础 [ICON_Strength] 战斗力等于城市曾生产之最强单位的战斗力。被击杀时将保留1点体力值，撤退至 [ICON_Capital] 首都。拥有独特的升级树。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

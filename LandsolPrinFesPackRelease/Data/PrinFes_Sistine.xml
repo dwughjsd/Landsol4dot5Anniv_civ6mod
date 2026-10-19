@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<GlobalParameters>
+		<Replace Name="AQUA_FLOCK_STACK_PER_DISTRICT" Value="0" />
+	</GlobalParameters>
+	<AiListTypes>
+		<Row ListType="AmesBuildings"/>
+		<Row ListType="AmesProjects"/>
+	</AiListTypes>
+	<AiLists>
+		<Row ListType="AmesProjects" LeaderType="TRAIT_LEADER_RIFARE_PIUMA" System="Projects"/>
+		<Row ListType="AmesBuildings" LeaderType="TRAIT_LEADER_RIFARE_PIUMA" System="Buildings"/>
+	</AiLists>
+	<AiFavoredItems>
+		<Row ListType="AmesProjects" Item="PROJECT_ENTER_DREAM_WORLD" Favored="true"/>
+		<Row ListType="AmesBuildings" Item="BUILDING_GUILDHOUSE" Favored="true"/>
+	</AiFavoredItems>
+</GameData>

@@ -184,11 +184,11 @@
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_NAME" Language="ko_KR">
-			<Text>마호마호모험단</Text>
+			<Text>Maho Maho Fluffy Support</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_MAHOMAHO_ADVENTURERS_DESCRIPTION" Language="ko_KR">
-			<Text>유닛 생산시 +50% [ICON_Production] 생산력. 다른 대륙에서 +7 [ICON_Strength] 전투력. 도심부에 마호마호캠프 건설 가능. </Text>
+			<Text>유닛 생산시 +50% [ICON_Production] 생산력. +50% experience for recon units. 다른 대륙에서 +7 [ICON_Strength] 전투력. 도심부에 마호마호캠프 건설 가능. </Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_LEADER_FAIRYTALE_EXPLORATION_NAME" Language="ko_KR">
@@ -208,7 +208,7 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_MAHOMAHO_CAMP_DESCRIPTION" Language="ko_KR">
-			<Text>마호(탐험가)특유의 건물. 이 도시에 턴당 충성심 +1. 이 도시가 이미 최대 충성도를 가지고 있다면, 대신 +1  [ICON_Culture] 문화. 수도와 다른 대륙에 있다면 추가로 +1 충성심과 +2 [ICON_Gold] 금.이 도시의 개발된 [ICON_RESOURCE_COTTON] 목화와 [ICON_RESOURCE_DYES] 염료에서 +1 [ICON_Culture] 문화.</Text>
+			<Text>마호(탐험가)특유의 건물. 이 도시에 턴당 충성심 +1. 이 도시가 이미 최대 충성도를 가지고 있다면, 대신 +1  [ICON_Culture] 문화. 수도와 다른 대륙에 있다면 추가로 +1 충성심과 +2 [ICON_Gold] 금.이 도시의 개발된 [ICON_RESOURCE_SHEEP] Sheep, [ICON_RESOURCE_COTTON] 목화와 [ICON_RESOURCE_DYES] 염료에서 +1 [ICON_Culture] 문화.</Text>
 		</Row>
 
 		<Row Tag="LOC_SELF_DEFENSE_GROUP_GUILDHOUSE_BONUS" Language="ko_KR">
