@@ -1,40 +1,40 @@
-[h1]↑轻点一下就能给出好评，激励我们继续努力，谢谢♪当然社区奖励我们也很欢迎～
+[h1]点击上方的好评按钮就可以支持我们！[/h1]
 
-欢迎加入“圣特蕾莎文明mod学园”QQ群（519747236）寻访关于我们的作品的最新动态。[/h1]
+本作需要风云变幻资料片才能运行。现已为[url=steamcommunity.com/sharedfiles/filedetails/?id=3258307214]鉴古维新大修[/url]完成优化！
 
-此mod需要[url=steamcommunity.com/sharedfiles/filedetails/?id=2815423792]“兰德索尔的儿童领袖包”[/url]以及迭起兴衰或风云变幻资料片的其中之一才能运行。平衡性以风云变幻资料片中的数值为准。
-
-[h1]支持语言：简体中文、英语、韩语[/h1]
+[h1]支持语言：简体中文、英语、韩语（未更新）[/h1]
 
 [h1]爱梅斯、真步（探险家）、镜华（夏日戏水）领导的兰德索尔：先睹为快[/h1]
 
-使用全新的领袖进行统治吧——本模组包含了3位《公主连结 Re:Dive》游戏发布4.5周年之际发布的角色，为领导兰德索尔的玩家提供更多不同的统治方式。
+新的伙伴加入团队——本模组包含了3位《公主连结 Re:Dive》游戏发布4.5周年之际发布的角色，为领导兰德索尔的玩家提供更多不同的统治方式。
 
-[b]爱梅斯[/b]的特色能力是“[b]重塑之羽[/b]”。这项能力使其能够重塑阵亡的高级单位，并在游戏开始时免费获得信仰值。一旦建造圣地，他们可以立即获得大预言家并随后获得一个强力的战斗单位“[b]可可萝[/b]”。可可萝有独特的升级树且可以撤退回首都，但在一局游戏中只能获得一次。
+[b]爱梅斯[/b]的特色能力是“[b]重始白羽[/b]”。他们开局时获得额外的信仰值。如果高级单位阵亡，他们能以单位拥有的升级为代价，在首都重塑一个。一旦建造圣地，他们可以立即获得大预言家并随后获得一个强力战斗单位“[b]可可萝[/b]”。可可萝有独特的升级树且可以撤退回首都，但在一局游戏中只能获得一次。
 
-公主骑士为她提供的能力是“[b]繁花之幸[/b]”。研发新时代的首个科技或市政后获得1个该时代的尤里卡和鼓舞。处于黑暗时代时，尤里卡和鼓舞可立即完成科技或市政。爱梅斯可以在建有公会之家的城市开展“入梦”特色项目，这一项目将为他们提供记忆碎片巨作，提供给他们大量额外产出。
+公主骑士为爱梅斯提供“[b]繁花祝福[/b]”能力。他们研发新时代的首个科技或市政后能够获得尤里卡和鼓舞。处于黑暗时代时，尤里卡和鼓舞可立即完成科技或市政。爱梅斯可以在建有公会之家的城市开展“入梦”特色项目，完成项目后便可获得专属于他们的记忆碎片巨作，这种巨作在他们手上可提供更多产出。
 
-[b]真步（探险家）[/b]的特色能力是“[b]真步真步冒险团[/b]”。侦察单位的生产更加快速，且在新大陆上获得额外的战斗力。有了这一特性，他们将能够更加快速地探索世界。特色建筑[b]真步真步营地[/b]使棉花和染料提供额外文化值，在新大陆上还提供额外的忠诚度和金币。
+[b]真步（探险家）[/b]的特色能力是“[b]真步真步毛绒支援[/b]”。侦察单位生产更快，获取经验更多，且在新大陆上获得额外的战斗力。这些加成让他们的探索旅途更快也更安全。特色建筑[b]真步真步营地[/b]让羊、棉花和染料单元格产出额外文化值，在新大陆上还提供忠诚度和金币。
 
-“[b]童话探险[/b]”是公主骑士提供给探险家真步的额外能力。外国文明的每个代表团或大使馆均为真步提供文化值。在一片新大陆上，他们的单位行动更加迅速，建立第一座城市时还可以免费获得开拓者和侦察单位。
+“[b]童话探险[/b]”是公主骑士提供给探险家真步的额外能力。每个来自其他文明的代表团或大使馆都能为他们提供文化值。在一片新大陆上，他们的单位行动更加迅速，建立第一座城市时还可以免费获得开拓者和侦察单位。
 
-[b]镜华（夏日戏水）[/b]的特色能力是“[b]水跃浪峰[/b]”，这项能力使得他们在海边能够占据优势。相邻或位于海岸或湖泊的改良设施产出随机数额的额外科技值、生产力或文化值。
+[b]镜华（夏日戏水）[/b]的特色能力是“[b]水浪顶尖[/b]”，使他们在海边占据优势。相邻或位于海岸或湖泊的改良设施产出随机数额的额外科技值、生产力或文化值。
 
-与她的领袖能力相配合的是公主骑士提供的额外能力“[b]夏日水弹群[/b]”。在沿海地区建设区域、建筑和改良设施便可为城市带来可观的科技值、生产力和文化值加成。同时，远程单位的攻击可以降低目标单位的战斗力。
+与她的领袖能力相配合的是公主骑士提供的额外能力“[b]夏日水弹风暴[/b]”。在沿海地区建设便可为城市带来可观的科技值、生产力和文化值加成。同时，远程单位的攻击可以降低目标单位的战斗力。
 
-您将会如何使用这些全新或是经过更新的领袖？您将会如何带领兰德索尔建立经得起时间考验的文明？
+您将会如何使用这些新领袖？您将会如何带领兰德索尔建立经得起时间考验的文明？
 
 [b]能力详情请参阅讨论贴。[/b]
 
-[h1]模组特性：[/h1]
+[h1]我们的风格：[/h1]
 
-[b]强力而不超模。[/b]每位领袖的能力均鼓励一种独特的游玩方式，并在设计时充分考虑了领袖的能力强度，使其拥有充分的竞争力但并不显著过强。
+[b]有玩法，不超模。[/b]每位领袖的能力组都经过精心设计与测试，使它们能够支持一种独特的玩法。能力强度与官方的强力领袖相当而不会击碎原作平衡。
 
-[b]忠于原作。[/b]本作品在制作过程中进行了精细的考证，包括人名、地名、城市名称和外交用语，以尽最大可能表现原作的风土人情和领袖性格特征。
+[b]忠于原作。[/b]我们的作品在制作过程中精细考证了领袖和他们的故事，拥有完整的人名、地名、城市名称和外交用语，以尽最大可能表现原作的风土人情和领袖性格特征。
 
-[b]和谐风格。[/b]所有已制作的美术素材均参照《文明6》游戏的规格进行处理，确保其在各个界面正确显示且整洁清爽。
+[b]广泛兼容。[/b]所有已制作的美术素材均参照《文明6》游戏的规格进行处理，确保其在各种分辨率和设置下都能正确显示且整洁清爽。
 
-[b]领袖语音。[/b]她们均有与游戏内文本相符合的，提取自原作游戏的语音。
+[b]领袖语音。[/b]使用了原作游戏中的语音片段。不含AI生成内容。
+
+[b]负责任的AI使用。[/b]我们谨慎地使用生成式AI创作的内容，确保不含“数字泔水”。
 
 [h1]已知问题：[/h1]
 
@@ -46,9 +46,9 @@
 （2）更多语言的本地化
 （3）图标和时代得分美术
 
-[h1]向大家介绍 Shimamura et al.[/h1]
+[h1]我们是 Shimamura et al.[/h1]
 
-Shimamura et al. （字面意思为“岛村和其他人”）简而言之就是 UzukiShimamura卯月 与小伙伴们的合作团队——我们由一群富有经验的文明6mod制作者组成，致力于设计富有特色而与原版游戏相协调的领袖mod。当然，如果你能做得更好，我们也需要你的帮助！
+Shimamura et al. （字面意思为“岛村和其他人”）是 UzukiShimamura卯月 与小伙伴们的合作团队——我们是玩家、创作者，也乐于提供协助！此外，如果你能做得更好，那就请快加入我们！
 
 本组合包的三位领袖分别由三人（当然，卯月我是主创）完成主要特性的实现：
 
@@ -67,51 +67,53 @@ Shimamura et al. （字面意思为“岛村和其他人”）简而言之就是
 [b][url=steamcommunity.com/profiles/76561198283559923/]MIMMIMME[/url][/b]：提供韩语翻译。
 [b][url=steamcommunity.com/profiles/76561198181931490]月海之沙[/url][/b]、[b][url=steamcommunity.com/profiles/76561198286338454]榊野木乃实[/url][/b]，还有其它朋友们：支持我做出这个作品，并将它送上工坊！
 
-需要mod制作支持，或者发现了什么问题吗？请在Steam私信，或加入QQ群“圣特蕾莎文明mod学园”（519747236）联系我。
+本模组使用了来自手机游戏《公主连结 Re:Dive》的素材。模组作者并不拥有素材的所有权。
 
-在[url=github.com/dwughjsd]我的GitHub[/url]（仅英文）上可以查看我所有作品的工程文件。给我Star或者提出Pull Request就更好了！
+在[url=github.com/dwughjsd]GitHub[/url]（仅英文）上可以查看卯月所有作品的工程文件。给个Star或者提出Pull Request就更好了！
 
-[h1]↑ Positive rates can be easily given by simply clicking the thumbs up button. Click it and you can encourage us to do better! Community Awards are also welcome~[/h1]
+[h1]Click the thumbs up button above to support us![/h1]
 
-You need the [url=steamcommunity.com/sharedfiles/filedetails/?id=2815423792]Little Lead-rical Leader Pack[/url] and either Rise and Fall or Gathering Storm to use this mod. All gameplay balancing is set to fit Gathering Storm ruleset.
+You need Gathering Storm to use this mod. It is now optimized for [url=steamcommunity.com/sharedfiles/filedetails/?id=3258307214]Project Sistine, the medium-scale overhaul[/url]!
 
-[h1]Supported language: Simplified Chinese, English, Korean[/h1]
+[h1]Supported language: Simplified Chinese, English, Korean (not updated)[/h1]
 
 [h1]Ameth, Maho (Explorer) and Kyoka (Summertime) Lead Landosol: First Look[/h1]
 
-Rule with brand new leaders - this mod contains 3 characters released near the 4.5 years anniversary of mobile game Princess Connect Re:Dive, providing more different ways to rule for players leading Landosol.
+New friends join the team - this mod contains 3 characters released near the 4.5 years anniversary of mobile game Princess Connect Re:Dive, providing more different ways to rule for players leading Landosol.
 
-[b]Ameth[/b]'s unique ability is [b]Rifàre Piuma[/b] (literally "Reshap(ing) Feather(s)"). [i](Note: This name might be a mistranslation by the original game of "reshaping wings" since the word for "wing" in Japanese can also be interpreted as "feather", and the Italian words they used seem to be grammatically incorrect. We used the name as is for now.)[/i] This ability allows them to retrain units with high levels when they are killed, and grants free Faith when game starts. Once they build a Holy Site, they can gain a Great Prophet at once and later receive a [b]Kokkoro[/b], a powerful combat unit which has a unique promotion tree and can retreat to capital but can only be acquired once per game.
+[b]Ameth[/b]'s unique ability is [b]Rifàre Piuma[/b] (literally "Reshap(ing) Feather(s)"). [i](Note: This name might be a mistranslation by the original game of "reshaping wings" since the word for "wing" in Japanese can also be interpreted as "feather", and the Italian words they used seem to be grammatically incorrect. We used the name as is.)[/i] They start with bonus Faith. When a high level unit is killed, they can recreate one in their captial at the cost of its promotions. Once they build a Holy Site, they can gain a Great Prophet at once and later receive a [b]Kokkoro[/b], a powerful combat unit which has a unique promotion tree and can retreat to capital but can only be acquired once per game.
 
-Princess Knight grants her [b]Fiore Felicità[/b] (literally "Flower Happiness"). When the first technology or civic of a new Era is researched, earn an Eureka and Inspiration of that Era. When in a Dark Age, Eurekas and Inspirations can finish research of technologies or civics instantly. Ameth can initiate Enter Dream World unique project in cities having a Guildhouse, which grant Memory Piece great works that provide much extra yields for them.
+Princess Knight grants Ameth [b]Fiore Felicità[/b] (literally "Flower Happiness"). They earn Eurekas and Inspirations when the first technology or civic of a new Era is researched.  When in a Dark Age, Eurekas and Inspirations can finish research of technologies or civics instantly. Ameth can initiate Enter Dream World unique project in cities with a Guildhouse. By finishing the project, they acquire Memory Pieces, the great works unique to them which provide more yields on their hands.
 
-Unique ability of [b]Maho (Explorer)[/b] is [b]Maho Maho Adventurers[/b]. They train recon units faster and recon units have bonus Combat Strength on a new continent. With this ability, they can explore the world faster. Unique building [b]Maho Maho Camp[/b] allows Cotton and Dyes in the city it is in gain extra Culture, and provides extra Loyalty and Gold in new continents.
+Unique ability of [b]Maho (Explorer)[/b] is [b]Maho Maho Fluffy Support[/b].  Recon units are trained faster, gain experience faster, and have bonus Combat Strength on a new continent. With this ability, they can explore the world faster and safer. Unique building [b]Maho Maho Camp[/b] provides extra Culture on tiles with Sheep, Cotton and Dyes, and additional Loyalty and Gold when built on new continents.
 
-[b]Fairytale Exploration[/b] is the unique ability that Princess Knight provides for Explorer Maho. Each Delegation or Embassy from a foreign civilization provides extra Culture for Explorer Maho. On a new continent, their units move faster, and they can receive a free Settler and a recon unit when they found the first city.
+[b]Fairytale Exploration[/b] is the unique ability that Princess Knight provides for Explorer Maho. Each Delegation or Embassy from a foreign civilization provides extra Culture for them. On a new continent, they can have their units move faster, and receive a free Settler and a recon unit when they found the first city.
 
 [b]Kyoka (Summertime)[/b] has a unique ability named [b]Aqua Crest[/b] which provides advantages when they are near Coasts. Each improvement on or next to Coast or Lake tiles provides random amounts of extra Science, Production or Culture.
 
-The extra ability that Princess Knight provides in synergy with her leader ability is [b]Summer Aqua Flock[/b]. Constructing districts, buildings and improvements in coastal areas provides considerable bonus Science, Production and Culture for their cities. In addition, ranged attacks of ranged units can reduce Combat Strength to the target unit.
+The extra ability that Princess Knight provides in synergy with her leader ability is [b]Summer Aqua Flock[/b]. Constructing in coastal areas provides considerable bonus Science, Production and Culture for their cities. In addition, attacks initiated by their ranged units can reduce Combat Strength of the target unit.
 
-How will you use these brand new or updated leaders? How will you lead Landosol to build a civilization that stands the test of time?
+How will you use these new leaders? How will you lead Landosol to build a civilization that stands the test of time?
 
 [b]For detailed ability description, see discussions.[/b]
 
-[h1]Mod Highlights:[/h1]
+[h1]Our Way of Modding:[/h1]
 
-[b]"Powered" without "Over"[/b]: Each Landosol leader has several abilities that promote a unique play-style. This mod is designed to make abilities of all leaders included competent but not overpowered.
+[b]Yes for Uniqueness, No for Overpowering[/b]: All leaders are designed and tested so that each of their ability sets promotes a unique play-style. They are set to be as powerful as strong official leaders and won't break game balancing.
 
-[b]Lore-Loyalty[/b]: This mod is made with a fine research of the original franchise, and provides full lists of named places, citizen names, city names and diplomacy statements to better represent lore and leader characteristics.
+[b]Lore-Loyalty[/b]: Our mods are made with a fine research of the leaders and their stories, and provides full lists of named places, citizen names, city names and diplomacy statements to better represent lore and leader characteristics.
 
-[b]Harmonized Mix[/b]: All art assets included in this mod are processed to fit the need of Civilization VI, so that they can display correctly and neatly.
+[b]Optimized for Compatibility[/b]: All art assets included in this mod are processed to fit the need of Civilization VI, so that they can display correctly and neatly on different screens / settings.
 
-[b]Voiced Leader[/b]: All of new leaders have speech audio extracted from the original game which corresponds to in-game text.
+[b]Leader Speeches[/b]: Voice clips from the original game are used. Not AI-generated.
+
+[b]Responsible AI Usage[/b]: We use generative-AI-created contents with caution to ensure the mod is slop-free.
 
 [h1]Known issues:[/h1]
 
 Some Civilopedia articles are in Simplified Chinese only.
 
-Names of Ameth's traits are direct restorations of the original Japanese transcriptions of Italian words which might be grammatically incorrect. None of authors of this mod can speak Italian, so we might need some support to set better ability names.
+Names of Ameth's traits are direct restorations of the original Japanese transcriptions of Italian words which might be grammatically incorrect. None of authors of this mod can speak Italian, so we might need some support to have better ability names.
 
 [h1]Help needed:[/h1]
 
@@ -121,7 +123,7 @@ Names of Ameth's traits are direct restorations of the original Japanese transcr
 
 [h1]Introducing Shimamura et al.[/h1]
 
-Shimamura et al. (literally means "Shimamura and other people") is the team of UzukiShimamura and his friends, a group of experienced modders trying their best to design some leader mods that are unique while keeping harmony with vanilla game. And of course, WE NEED YOUR SUPPORT if you can do better than us!
+Shimamura et al. (literally means "Shimamura and other people") means UzukiShimamura and his friends - players, creators, and helpers! And by the way, PLEASE JOIN US if you can do better than us!
 
 Main features of the 3 new leaders in this pack are implemented by 3 people respectively (and of course I, UzukiShimamura, am the lead designer):
 
@@ -140,6 +142,6 @@ In addition, this mod relies on their support:
 [b][url=steamcommunity.com/profiles/76561198283559923/]MIMMIMME[/url][/b]: For Korean translations.
 [b][url=steamcommunity.com/profiles/76561198181931490]月海之沙[/url][/b], [b][url=steamcommunity.com/profiles/76561198286338454]榊野木乃实[/url][/b] and other friends: For supporting us to make this mod and send it to the Workshop!
 
-Need modding support, or found some issues? PM me on Steam or join QQ group 519747236 to contact me.
+This mod uses assets from the mobile game Princess Connect Re:Dive. The authors of this mod DOES NOT own these assets.
 
-View project files of all my work on [url=github.com/dwughjsd]GitHub[/url]. It would be much appreciated if you can be my Stargazer or come up with some Pull Requests!
+View project files of all UzukiShimamura's work on [url=github.com/dwughjsd]GitHub[/url]. It would be much appreciated if you can be a Stargazer or come up with some Pull Requests!
